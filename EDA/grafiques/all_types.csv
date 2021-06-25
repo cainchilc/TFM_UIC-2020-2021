@@ -1,0 +1,1329 @@
+ID_NAC	type	Nombre_NAC	Status_imagen_NAC	weight_original_TIF_NAC	File_name_tif_NAC	File_name_layer_PNG_NAC	weight_PNG_NAC	resolucion_corregida_NAC	ID_igual_NAC	img_duplicada_NAC	%_Tumor_(0_.._10_.._100)_NAC	descartar	defectuosa_NAC	puntos_negros_NAC	manchas_negras_NAC	manchas_aguas_NAC	borde_negro_NAC	mancha_rotulador_NAC	marcado_rotulador_NAC	RGB_WB_NAC	num_linfocitos_NAC	pliegue_NAC	split_image_NAC	sex	MSI	side_NAC	Side	Grade	crohn_consensus	HistoHetero	Observaciones_NAC
+I00115	T	grup		2.9G	I00115.tif	I00115_7.png	10M	2688x3456			90	no	no	no	si	si	no	no	no	RGB_WB_NAC	0	no	si	Female	0	all	Left	Moderate	No	No	
+I00123	T	Carlos		2.1G	I00123.tif	I00123_6.png	34M	3840x7040																Female	0		Right	Moderate	No	No	
+I00141	T	Carlos		694M	I00141.tif	I00141_5.png	35M	4160x6240																Male	0		Left	Poor	No	Yes	
+I00145	T	Carlos		3.7G	I00145.tif	I00145_7.png	13M	2816x3712																Female	1		Right	Poor	Yes	No	
+I00157	T	Carlos		2.0G	I00157.tif	I00157_6.png	31M	4096x6336																Female	0		Right	Moderate	No	No	
+I00179	T	Carlos		1.1G	I00179.tif	I00179_6.png	13M	2560x2880																Male	1		Left	Moderate	No	No	
+I00182	T	Carlos		4.0G	I00182.tif	I00182_7.png	19M	2944x4288																Female	0		Left	Well	Yes	No	
+I01117	T	Carlos		1.8G	I01117.tif	I01117_6.png	24M	4096x5568																Female	0		Left	Moderate	No	No	
+I01121	T	Carlos		3.1G	I01121.tif	I01121_7.png	13M	2432x3648																Female	0		Left	Moderate	No	No	
+I01122	T	Carlos		1.4G	I01122.tif	I01122_6.png	22M	3840x3968																Male	0			Moderate	No	No	
+I01132	T	Carlos		2.2G	I01132.tif	I01132_6.png	30M	4864x5312																Male	1		Right	Moderate	Yes	No	
+I01138	T	Carlos		2.6G	I01138.tif	I01138_7.png	10M	2816x2592																Female	0		Right	Well	Yes	No	
+I01142	T	Carlos		4.8G	I01142.tif	I01142_7.png	23M	3072x4768																Male	0		Left	Moderate	Yes	No	
+I01144	T	Carlos		307M	I01144.tif	I01144_5.png	12M	4096x7936																Female	0		Left	Moderate	No	No	
+I01152	T	Carlos		3.5G	I01152.tif	I01152_7.png	16M	2816x3392																Female	0			Moderate	Yes	No	
+I01158	T	Carlos		1.3G	I01158.tif	I01158_6.png	17M	3328x3648																Male	0		Left	Moderate	No	No	
+I01173	T	Carlos		5.1G	I01173.tif	I01173_7.png	21M	3072x4032																Male	0		Left	Poor	No	No	
+I01177	T	Carlos		2.7G	I01177.tif	I01177_6.png	38M	5376x6144																Female	0		Right	Moderate	No	No	
+I01177-2	T	Carlos		3.3G	I01177-2.tif	I01177-2_6.png	39M	4864x5888																Female	0		Right	Moderate	No	No	
+I01182	T	Carlos		2.6G	I01182.tif	I01182_6.png	35M	5376x5952																Female	0		Right	Moderate	No	No	
+I01192	T	Carlos		3.7G	I01192.tif	I01192_7.png	18M	2944x4288																Female	0		Right	Well	Yes	No	
+I02104	T	Carlos		3.7G	I02104.tif	I02104_7.png	15M	2688x4000																Male	0		Left	Moderate	No	No	
+I02107	T	Carlos		3.3G	I02107.tif	I02107_7.png	13M	3072x4384																Male	0		Right	Moderate	No		
+I02117	T	Carlos		3.5G	I02117.tif	I02117_7.png	12M	2816x2752																Male	0		Left	Moderate	Yes	No	
+I02125	T	Carlos		1.8G	I02125.tif	I02125_6.png	24M	4096x4352																Male	0		Left	Moderate	No	No	
+I02139	T	Carlos		3.8G	I02139.tif	I02139_7.png	13M	2560x3936																Female	0		Right	Moderate	No	No	
+I02141	T	Carlos		2.5G	I02141.tif	I02141_6.png	37M	4096x6656																Female	0		Left	Moderate	Yes	No	
+I02186	T	Carlos		3.0G	I02186.tif	I02186_7.png	12M	2688x3552																Male	0		Left	Moderate	No	No	
+I02199	T	Carlos		1.5G	I02199.tif	I02199_6.png	16M	3200x3440																Male	0		Right	Moderate	Yes	No	
+I03109	T	Carlos		1.1G	I03109.tif	I03109_6.png	12M	2720x5440																Male	0		Right	Poor	No	No	
+I03113	T	Carlos		2.8G	I03113.tif	I03113_6.png	37M	5888x5760																Female	0		Right	Moderate	No	No	
+I03132	T	Carlos		2.6G	I03132.tif	I03132_6.png	38M	5376x5760																Male	0		Left	Moderate	Yes	Yes	
+I03138	T	Carlos		3.3G	I03138.tif	I03138_7.png	13M	2688x3200																Male	0		Right	Moderate	No	No	
+I03154	T	Carlos		1.7G	I03154.tif	I03154_6.png	24M	4864x4096																Female	0		Left	Moderate	No	No	
+I03170	T	Carlos		1.1G	I03170.tif	I03170_6.png	13M	3200x3600																Male	0		Left	Well		No	
+I03172	T	Carlos		2.4G	I03172.tif	I03172_6.png	33M	5888x4288																Female	0		Right	Moderate	No	No	
+I03178	T	Carlos		1.5G	I03178.tif	I03178_6.png	19M	3072x4416																Female	0		Left	Moderate	No	No	
+I03179	T	Carlos		3.4G	I03179.tif	I03179_7.png	12M	2688x2976																Male	NA		Left	Moderate			
+I03180	T	Carlos		2.6G	I03180.tif	I03180_6.png	39M	5632x4736																Female	0		Left	Moderate	No	No	
+I03182	T	Carlos		4.0G	I03182.tif	I03182_7.png	15M	2688x5152																Male	0		Left	Moderate	Yes	No	
+I04106	T	Carlos		3.4G	I04106.tif	I04106_7.png	14M	2432x3552																Female	0		Left	Moderate	Yes	No	
+I04112	T	Carlos		4.0G	I04112.tif	I04112_7.png	16M	2560x3872																Male	0			Moderate	Yes	No	
+I04142	T	Carlos		2.4G	I04142.tif	I04142_7.png	11M	2944x2688																Male	0		Right	Moderate	No	No	
+I04152	T	Carlos		4.3G	I04152.tif	I04152_7.png	17M	2560x5760																Female	0		Left	Moderate	No	No	
+I04182	T	Carlos		2.4G	I04182.tif	I04182_7.png	11M	2176x3264																Female	1		Left	Well	Yes	No	
+I04187	T	Carlos		1.1G	I04187.tif	I04187_6.png	12M	2880x3440																Male	NA		Left	Moderate	No	No	
+I05107	T	Carlos		2.8G	I05107.tif	I05107_6.png	35M	5632x4992																Female	0		Right	Moderate	No	No	
+I05112	T	Carlos		2.2G	I05112.tif	I05112_6.png	28M	5120x5312																Male	0		Right	Moderate	No	No	
+I05116	T	Carlos		3.6G	I05116.tif	I05116_7.png	12M	2432x3264																Female	0		Right	Moderate	No	No	
+I05119	T	Carlos		978M	I05119.tif	I05119_6.png	11M	2720x2560																Male	0		Left	Moderate	Yes	No	
+I05126	T	Carlos		4.1G	I05126.tif	I05126_7.png	14M	2944x3360																Female	0		Left	Moderate	No	No	
+I05132	T	Carlos		2.9G	I05132.tif	I05132_7.png	10M	2816x3552																Female	0		Right	Moderate	Yes	No	
+I05139	T	Carlos		1.4G	I05139.tif	I05139_6.png	16M	3200x3440																Female	0		Right	Poor	No	No	
+I05142	T	Carlos		2.0G	I05142.tif	I05142_6.png	29M	4608x5376																Female	0		Left	Moderate	Unknown	No	
+I05151	T	Carlos		2.3G	I05151.tif	I05151_6.png	32M	5376x4544																Male	NA		Right	Moderate	No	No	
+I05167	T	Carlos		1.5G	I05167.tif	I05167_6.png	21M	3584x5120																Female	0		Left	Moderate	No	No	
+I05179	T	Carlos		942M	I05179.tif	I05179_6.png	11M	2720x3600																Female	0		Left	Moderate	Yes	No	
+I05180	T	Carlos		902M	I05180.tif	I05180_6.png	12M	2560x3600																Female	0		Left	Moderate		No	
+I05182	T	Carlos		2.1G	I05182.tif	I05182_6.png	31M	5120x4224																Female	0		Left	Moderate	Yes	No	
+I05191	T	Carlos		3.4G	I05191.tif	I05191_7.png	14M	2944x3232																Male	0		Right	Moderate	No	Yes	
+I05198	T	Carlos		445M	I05198.tif	I05198_5.png	22M	4160x3200																Female	1		Right	Well	Yes		
+I05199	T	Carlos		614M	I05199.tif	I05199_5.png	26M	5120x5440																Male	0		Left	Well	Unknown	No	
+I06102	T	Carlos		1.9G	I06102.tif	I06102_6.png	29M	3328x5952																Female	0		Left	Moderate	No	No	
+I06114	T	Carlos		2.7G	I06114.tif	I06114_7.png	12M	2176x3360																Female	0			Moderate	Yes	No	
+I06115	T	Carlos		1.5G	I06115.tif	I06115_6.png	24M	3840x4736																Female	0		Right	Moderate	No	Yes	
+I06153	T	Carlos		4.3G	I06153.tif	I06153_7.png	17M	2944x4640																Female	0		Right	Moderate	No	No	
+I06155	T	Carlos		1.2G	I06155.tif	I06155_6.png	14M	3328x5824																Male	NA		Left	Moderate			
+I06158	T	Carlos		2.8G	I06158.tif	I06158_7.png	11M	2176x3040																Female	0		Left	Well	Yes	No	
+I06187	T	Carlos		1.2G	I06187.tif	I06187_6.png	13M	3040x3600																Male	0		Left	Moderate	No	No	
+I06188	T	Carlos		826M	I06188.tif	I06188_5.png	39M	4160x7520																Male	0		Left	Moderate	No	No	
+I06190	T	Carlos		1.1G	I06190.tif	I06190_6.png	14M	2720x3920																Male	0		Left	Moderate	No	No	
+I07107	T	Carlos		622M	I07107.tif	I07107_5.png	28M	5440x4320																Male	0		Left	Moderate	No	No	
+I07109	T	Carlos		2.2G	I07109.tif	I07109_6.png	30M	3328x5632																Male	0		Left	Moderate	Unknown	No	
+I07122	T	Carlos		3.3G	I07122.tif	I07122_7.png	13M	2816x3488																Male	0			Poor	Yes	No	
+I07127	T	Carlos		741M	I07127.tif	I07127_5.png	33M	4800x7040																Male	0		Right	Moderate	Yes	No	
+I07137	T	Carlos		2.7G	I07137.tif	I07137_6.png	34M	4352x7104																Male	1		Right	Well	Yes	No	
+I07156	T	Carlos		3.5G	I07156.tif	I07156_7.png	12M	2688x3392																Male	0		Left	Well	Yes	No	
+I07162	T	Carlos		2.9G	I07162.tif	I07162_7.png	12M	2304x3872																Male	0		Left	Moderate	Yes	No	
+I07177	T	Carlos		1.1G	I07177.tif	I07177_6.png	12M	2880x3680																Female	NA			Moderate	No	No	
+I07181	T	Carlos		2.7G	I07181.tif	I07181_7.png	12M	2176x4064																Male	0		Right	Moderate	No	No	
+I07186	T	Carlos		1.4G	I07186.tif	I07186_6.png	18M	3360x3680																Male	0		Left	Moderate	Yes	No	
+I08100	T	Carlos		2.4G	I08100.tif	I08100_6.png	32M	4864x6016																Male	0		Left	Moderate	Yes	No	
+I08105	T	Carlos		1.8G	I08105.tif	I08105_6.png	19M	5632x4736																Female	0		Left	Moderate	Unknown	No	
+I08132	T	Carlos		2.9G	I08132.tif	I08132_6.png	39M	4864x6208																Male	0		Left	Moderate	Yes	No	
+I08134	T	Carlos		3.0G	I08134.tif	I08134_7.png	14M	2560x3072																Female	0		Left	Well	Yes	No	
+I08152	T	Carlos		2.3G	I08152.tif	I08152_6.png	28M	4608x5312																Female	0		Left	Moderate	No	No	
+I08166	T	Carlos		1.6G	I08166.tif	I08166_6.png	19M	4096x3584																Female	1		Left	Moderate	No	No	
+I08181	T	Carlos		4.5G	I08181.tif	I08181_7.png	19M	2944x5664																Male	0		Left	Moderate	No	No	
+I08184	T	Carlos		4.2G	I08184.tif	I08184_7.png	18M	3072x3840																Male	0		Left	Moderate	Yes	No	
+I08186	T	Carlos		2.7G	I08186.tif	I08186_7.png	11M	2432x3296																Male	0		Left	Moderate	No	No	
+I08191	T	Carlos		5.3G	I08191.tif	I08191_7.png	24M	2944x5408																Male	0		Left	Moderate	Yes	No	
+I09100	T	Carlos		886M	I09100.tif	I09100_6.png	13M	3200x2880																Male	0		Left	Moderate	No	No	
+I09101	T	Carlos		3.0G	I09101.tif	I09101_7.png	11M	2432x3072																Female	0		Right	Moderate	Yes	No	
+I09104	T	Carlos		2.8G	I09104.tif	I09104_7.png	11M	2816x3008																Male	0		Left	Moderate	No	No	
+I09116	T	Carlos		2.8G	I09116.tif	I09116_6.png	36M	3840x6208																Female	1		Left	Poor	No	No	
+I09128	T	Carlos		2.8G	I09128.tif	I09128_6.png	36M	5632x6016																Male	0		Right	Well	No	No	
+I09131	T	Carlos		2.9G	I09131.tif	I09131_7.png	12M	2304x3168																Female	1		Right	Poor	No	Yes	
+I09140	T	Carlos		741M	I09140.tif	I09140_6.png	11M	2400x3040																Male	0		Left	Moderate	Yes	No	
+I09144	T	Carlos		2.9G	I09144.tif	I09144_6.png	38M	5632x6784																Female	0		Left	Moderate	Yes	No	
+I09145	T	Carlos		3.1G	I09145.tif	I09145_7.png	11M	2560x2656																Female	0		Left	Poor	No	No	
+I09150	T	Carlos		842M	I09150.tif	I09150_6.png	12M	2400x3200																Female	0		Right	Poor	No	Yes	
+I09151	T	Carlos		2.1G	I09151.tif	I09151_6.png	33M	5120x4992																Female	0		Right	Moderate	Yes	No	
+I09156	T	Carlos		1.7G	I09156.tif	I09156_6.png	22M	4352x4544																Male	0		Right	Moderate	No	No	
+I09159	T	Carlos		2.6G	I09159.tif	I09159_6.png	35M	4864x5184																Female	0		Left	Moderate	No	No	
+I09161	T	Carlos		2.3G	I09161.tif	I09161_6.png	35M	4864x4800																Female	0		Left	Moderate	Yes	No	
+I09169	T	Carlos		3.7G	I09169.tif	I09169_7.png	12M	2944x2880																Male	1		Right	Poor	Yes	No	
+I09177	T	Carlos		1.1G	I09177.tif	I09177_6.png	12M	2560x3680																Female	0		Left	Moderate	No	No	
+I09178	T	Carlos		3.6G	I09178.tif	I09178_7.png	11M	2560x3488																Male	0		Right	Moderate	Yes	No	
+I09182	T	Carlos		3.3G	I09182.tif	I09182_6.png	33M	4864x7744																Female	0		Left	Moderate	Yes	No	
+I10102	T	Carlos		4.2G	I10102.tif	I10102_7.png	14M	2688x3712																Female	0			Moderate	Yes	No	
+I10104	T	Carlos		645M	I10104.tif	I10104_5.png	27M	5440x4000																Male	0		Left	Moderate	No	No	
+I10117-2	T	Carlos		1.6G	I10117-2.tif	I10117-2_6.png	28M	4048x5320																	NA						
+I10118	T	Carlos		2.5G	I10118.tif	I10118_7.png	13M	2752x3096																Male	0		Right	Moderate	No	No	
+I10131	T	Carlos		745M	I10131.tif	I10131_5.png	30M	4800x5760																Male	0		Left	Moderate	Yes	No	
+I10148	T	Carlos		3.3G	I10148.tif	I10148_7.png	15M	2696x3704																Female	0		Right	Well	Yes	No	
+I10160	T	Carlos		671M	I10160.tif	I10160_5.png	26M	5760x9440																Male	0		Left	Moderate	No	Unknown	
+I10164	T	Carlos		2.4G	I10164.tif	I10164_6.png	28M	4864x4736																Female	0		Left	Moderate	Yes	No	
+I10168	T	Carlos		2.5G	I10168.tif	I10168_7.png	13M	2696x3032																Male	0		Left	Moderate	Yes	No	
+I10177	T	Carlos		1.7G	I10177.tif	I10177_6.png	26M	4416x5640																Male	1		Left	Moderate	Yes	No	
+I10178	T	Carlos		272M	I10178.tif	I10178_5.png	16M	4928x3648																Male	0		Left	Moderate	Unknown	Unknown	
+I10181	T	Carlos		2.8G	I10181.tif	I10181_6.png	32M	5120x5120																Male	0		Left	Moderate	No	No	
+I10187	T	Carlos		1.4G	I10187.tif	I10187_6.png	20M	4280x5976																Female	0		Left	Well	Yes	No	
+I10197	T	Carlos		1.7G	I10197.tif	I10197_6.png	35M	5152x4736																Male	0		Right	Moderate	Yes	No	
+I11100	T	Carlos		3.4G	I11100.tif	I11100_6.png	37M	5632x9664																Male	0		Right	Moderate	Yes	No	
+I11110	T	Carlos		703M	I11110.tif	I11110_5.png	29M	4800x4320																Male	0		Right	Moderate	No	No	
+I11120	T	Carlos		287M	I11120.tif	I11120_5.png	11M	3200x4160																Female	0		Left	Moderate	Yes	No	
+I11127-2	T	Carlos		2.2G	I11127-2.tif	I11127-2_6.png	38M	4168x6064																Male	0		Left	Moderate	No	No	
+I11130	T	Carlos		1.9G	I11130.tif	I11130_6.png	23M	4096x3904																Female	0		Left	Poor	No	No	
+I11132	T	Carlos		4.4G	I11132.tif	I11132_7.png	16M	2944x3968																Male	0		Left	Moderate	Yes	No	
+I11133	T	Carlos		937M	I11133.tif	I11133_5.png	33M	6656x8192																Male	NA		Right				
+I11136-2	T	Carlos		1.8G	I11136-2.tif	I11136-2_6.png	20M	5120x3968																	NA						
+I11140	T	Carlos		599M	I11140.tif	I11140_5.png	21M	5440x11200																Female	0		Right	Moderate	Unknown	No	
+I11156	T	Carlos		3.6G	I11156.tif	I11156_7.png	12M	2432x3584																Female	0		Left	Moderate	Yes	No	
+I11166	T	Carlos		4.3G	I11166.tif	I11166_7.png	16M	2944x3712																Female	0		Right	Well	No	No	
+I11176	T	Carlos		2.7G	I11176.tif	I11176_6.png	32M	5376x4672																Male	0		Left	Moderate	Yes	No	
+I11186	T	Carlos		816M	I11186.tif	I11186_5.png	34M	4608x8320																Male	0		Left	Moderate	Yes	No	
+I11187	T	Carlos		1.2G	I11187.tif	I11187_6.png	24M	3680x5704																Male	0		Right	Moderate	No	No	
+I12100	T	Carlos		1.6G	I12100.tif	I12100_6.png	11M	4352x6336																Male	NA		Left				
+I12107	T	Carlos		2.7G	I12107.tif	I12107_7.png	12M	2336x3904																Male	NA		Left	Moderate	No	No	
+I12111	T	Carlos		1.6G	I12111.tif	I12111_6.png	19M	4608x3008																Female	0		Right	Moderate	Yes	No	
+I12112	T	Carlos		1.3G	I12112.tif	I12112_6.png	14M	3040x4080																Male	0		Right	Moderate	Yes	No	
+I12121	T	Carlos		855M	I12121.tif	I12121_5.png	37M	5440x4160																Male	0		Right	Moderate	No	No	
+I12130	T	Carlos		2.1G	I12130.tif	I12130_6.png	27M	4352x5056																Male	0		Right	Moderate	Yes	No	
+I12140	T	Carlos		1.1G	I12140.tif	I12140_6.png	12M	3040x3120																Female	0		Left	Moderate	Yes	No	
+I12141	T	Carlos		3.4G	I12141.tif	I12141_7.png	11M	2304x3392																Female	NA		Left	Well	Yes	Yes	
+I12142	T	Carlos		4.4G	I12142.tif	I12142_7.png	15M	2944x3872																Male	0		Left	Moderate	Yes	No	
+I12152	T	Carlos		4.4G	I12152.tif	I12152_7.png	13M	2944x3360																Female	0		Left	Moderate	Yes	No	
+I12156	T	Carlos		3.8G	I12156.tif	I12156_7.png	13M	2816x2912																Female	0		Right	Moderate	Yes	No	
+I12157	T	Carlos		2.5G	I12157.tif	I12157_7.png	14M	3120x3128																Male	NA		Left	Moderate			
+I12166	T	Carlos		1.1G	I12166.tif	I12166_6.png	13M	2720x3360																Female	1		Left	Moderate	Yes	No	
+I12167	T	Carlos		2.7G	I12167.tif	I12167_7.png	13M	2864x3072																Female	1		Right	Poor	No	Yes	
+I12177-2	T	Carlos		1.7G	I12177-2.tif	I12177-2_6.png	28M	5504x4816																Female	0		Left	Moderate	Unknown	No	
+I12180	T	Carlos		466M	I12180.tif	I12180_5.png	19M	4480x3840																Male	0		Right	Moderate	No	No	
+I12187	T	Carlos		925M	I12187.tif	I12187_6.png	14M	3864x4416																	NA						
+I12190	T	Carlos		1.6G	I12190.tif	I12190_6.png	17M	3328x8320																Male	0		Left	Well	Unknown	No	
+I12191	T	Carlos		4.3G	I12191.tif	I12191_7.png	14M	2688x3968																Female	0		Left	Moderate	Yes	No	
+I12196-2	T	Carlos		3.6G	I12196-2.tif	I12196-2_7.png	12M	2688x3072																Female	0		Right	Moderate	No	No	
+I12197	T	Carlos		578M	I12197.tif	I12197_5.png	37M	5408x6800																Female	0		Left	Poor	Unknown	No	
+I13100	T	Carlos		2.0G	I13100.tif	I13100_6.png	25M	3840x5248																Female	0		Left	Moderate	No	No	
+I13111	T	Carlos		349M	I13111.tif	I13111_5.png	16M	3840x3520																Female	0		Left	Moderate	No	No	
+I13111-2	T	Carlos		347M	I13111-2.tif	I13111-2_5.png	16M	3840x3200																Female	0		Left	Moderate	No	No	
+I13120	T	Carlos		3.0G	I13120.tif	I13120_6.png	34M	4864x5696																Female	0		Right	Moderate	No	No	
+I13121	T	Carlos		607M	I13121.tif	I13121_5.png	25M	5760x4160																Female	0		Right	Moderate	Yes	No	
+I13130	T	Carlos		6.1G	I13130.tif	I13130_7.png	20M	2944x3872																Female	0		Left	Moderate	No	No	
+I13165	T	Carlos		501M	I13165.tif	I13165_5.png	20M	2880x5280																Female	0		Left	Moderate	No	Yes	
+I13166-2	T	Carlos		2.4G	I13166-2.tif	I13166-2_6.png	32M	4352x5440																Male	0		Left	Moderate	No	No	
+I13176-2	T	Carlos		2.2G	I13176-2.tif	I13176-2_6.png	38M	5624x5472																Female	0		Left	Moderate	Unknown	No	
+I13180	T	Carlos		3.9G	I13180.tif	I13180_7.png	13M	2944x3584																Male	0		Left	Moderate	No	No	
+I13192	T	Carlos		3.4G	I13192.tif	I13192_7.png	12M	2944x3008																Male	0		Right	Moderate	Yes	No	
+I13198	T	Carlos		1.5G	I13198.tif	I13198_5.png	34M	10240x13056																Female	0		Left				
+I14106-2	T	Carlos		1.1G	I14106-2.tif	I14106-2_6.png	17M	2704x5560																Male	0		Left	Moderate	No	No	
+I14107	T	Carlos		823M	I14107.tif	I14107_6.png	11M	3040x2640																Male	0		Left	Moderate	No	No	
+I14109	T	Carlos		3.7G	I14109.tif	I14109_7.png	12M	2560x2880																Female	1		Right	Moderate	Yes	No	
+I14122	T	Carlos		4.2G	I14122.tif	I14122_7.png	14M	2944x3456																Female	0		Left	Moderate	Yes	No	
+I14127	T	Carlos		2.7G	I14127.tif	I14127_7.png	12M	2576x3408																	NA						
+I14130	T	Carlos		2.3G	I14130.tif	I14130_6.png	23M	5120x4928																Female	0		Left	Well	No	No	
+I14136-2	T	Carlos		3.4G	I14136-2.tif	I14136-2_7.png	18M	3120x3200																Female	0		Right	Well	No	No	
+I14139	T	Carlos		2.7G	I14139.tif	I14139_6.png	34M	4352x6336																Male	0		Left	Well	Yes	Yes	
+I14146-2	T	Carlos		1.7G	I14146-2.tif	I14146-2_6.png	35M	5392x4088																Male	0		Right	Moderate	Yes	No	
+I14156	T	Carlos		1.8G	I14156.tif	I14156_6.png	30M	3680x7312																Female	0		Left	Moderate	No	No	
+I14167-2	T	Carlos		1.8G	I14167-2.tif	I14167-2_6.png	35M	4048x5896																Male	NA		Left	Moderate	Yes	No	
+I14176	T	Carlos		1.5G	I14176.tif	I14176_6.png	25M	3440x5640																Male	0		Left	Moderate	No	No	
+I14177-3	T	Carlos		1.6G	I14177-3.tif	I14177-3_6.png	27M	3880x6192																Male	0		Right	Moderate	Unknown	No	
+I14179	T	Carlos		3.8G	I14179.tif	I14179_7.png	12M	2688x3552																Male	0		Right	Moderate	Yes	No	
+I14186	T	Carlos		2.1G	I14186.tif	I14186_6.png	35M	5504x5192																Female	0		Left	Moderate	Yes	No	
+I14187	T	Carlos		2.4G	I14187.tif	I14187_7.png	10M	2568x2904																Female	0		Left	Moderate	No	No	
+I14189	T	Carlos		2.2G	I14189.tif	I14189_6.png	27M	4352x5120																Female	0		Left	Moderate	Yes	No	
+I15107-2	T	Carlos		1.3G	I15107-2.tif	I15107-2_6.png	26M	3072x5976																	NA						
+I15119	T	Carlos		1.6G	I15119.tif	I15119_6.png	19M	4096x3840																	NA						
+I15127	T	Carlos		1.1G	I15127.tif	I15127_6.png	11M	2720x4080																Female	1		Left	Moderate	No	No	
+I15129	T	Carlos		1.3G	I15129.tif	I15129_6.png	16M	2304x5504																Male	0		Right	Moderate	Yes	No	
+I15132	T	Carlos		2.6G	I15132.tif	I15132_6.png	30M	4352x6016																Female	0		Left	Poor	No	No	
+I15137	T	Carlos		1.4G	I15137.tif	I15137_6.png	23M	4784x3824																Female	0		Left	Well	No	No	
+I15149	T	Carlos		3.7G	I15149.tif	I15149_7.png	13M	2304x3360																	NA						
+I15157	T	Carlos		2.3G	I15157.tif	I15157_7.png	11M	2208x3328																Female	0		Left	Well	Yes	No	
+I15159	T	Carlos		3.4G	I15159.tif	I15159_7.png	11M	2560x2912																	NA						
+I15164	T	Carlos		1.2G	I15164.tif	I15164_6.png	14M	3040x4240																Male	0		Right	Moderate	Yes	No	
+I15169	T	Carlos		2.2G	I15169.tif	I15169_6.png	34M	4608x5120																Male	0		Left	Moderate	No	No	
+I15171	T	Carlos		1.3G	I15171.tif	I15171_6.png	16M	3040x3920																Female	0		Left	Moderate	No	No	
+I15175	T	Carlos		722M	I15175.tif	I15175_5.png	33M	4800x5280																Female	0		Left	Moderate	Yes	No	
+I15176	T	Carlos		1.2G	I15176.tif	I15176_6.png	20M	3928x4152																Female	0		Right	Well	Unknown	No	
+I15177	T	Carlos		2.6G	I15177.tif	I15177_7.png	13M	2576x3424																Male	1		Right	Well	Yes	No	
+I15179	T	Carlos		3.0G	I15179.tif	I15179_7.png	11M	2560x2912																	NA						
+I15186	T	Carlos		3.1G	I15186.tif	I15186_7.png	14M	2880x3336																	NA						
+I15195	T	Carlos		467M	I15195.tif	I15195_5.png	19M	4160x4640																Male	0		Left	Moderate	No	No	
+I15197-2	T	Carlos		3.0G	I15197-2.tif	I15197-2_7.png	14M	3000x3056																Male	0		Left	Poor	No	No	
+I16101	T	Carlos		4.3G	I16101.tif	I16101_7.png	15M	2944x3616																Male	1		Right	Well	Yes	No	
+I16105	T	Carlos		1.1G	I16105.tif	I16105_6.png	14M	3200x2960																Female	1		Right	Moderate	Yes	No	
+I16107-2	T	Carlos		2.2G	I16107-2.tif	I16107-2_7.png	11M	2760x2656																Male	0		Right	Moderate	Yes	No	
+I16109	T	Carlos		3.2G	I16109.tif	I16109_7.png	11M	2304x3104																	NA						
+I16117	T	Carlos		2.9G	I16117.tif	I16117_7.png	15M	2504x3544																Female	0		Right	Moderate	Yes	No	
+I16118	T	Carlos		842M	I16118.tif	I16118_5.png	36M	4160x6880																Male	0		Left	Moderate	No	No	
+I16126-2	T	Carlos		1.4G	I16126-2.tif	I16126-2_6.png	24M	3808x4568																Male	0		Left	Moderate	No	No	
+I16127	T	Carlos		3.2G	I16127.tif	I16127_6.png	40M	4864x6656																Male	1		Right	Moderate	Yes	No	
+I16136	T	Carlos		1.8G	I16136.tif	I16136_6.png	34M	5512x4992																Male	0		Left	Poor	No	No	
+I16140	T	Carlos		1.3G	I16140.tif	I16140_6.png	13M	3840x4032																Male	0		Left	Moderate	No	No	
+I16141	T	Carlos		3.1G	I16141.tif	I16141_6.png	39M	3840x7744																Male	0		Left	Moderate	Yes	No	
+I16142	T	Carlos		3.1G	I16142.tif	I16142_7.png	11M	2432x2880																Male	0		Left	Moderate	Yes	No	
+I16147	T	Carlos		2.5G	I16147.tif	I16147_7.png	11M	2552x3648																Female	0		Left	Moderate	No	No	
+I16149	T	Carlos		2.6G	I16149.tif	I16149_6.png	32M	4352x4928																Female	1		Left	Moderate	Unknown	No	
+I16150	T	Carlos		3.4G	I16150.tif	I16150_7.png	13M	2816x3168																Female	0		Left	Moderate	Yes	No	
+I16152	T	Carlos		4.8G	I16152.tif	I16152_7.png	17M	2688x3872																Male	0		Left	Moderate	No	No	
+I16156	T	Carlos		2.7G	I16156.tif	I16156_7.png	14M	2880x3176																Female	NA		Left	Moderate	Unknown	No	
+I16157-2	T	Carlos		2.5G	I16157-2.tif	I16157-2_7.png	12M	2512x3488																	NA						
+I16163	T	Carlos		2.5G	I16163.tif	I16163_6.png	30M	4864x5952																Female	NA		Right	Well			
+I16167-2	T	Carlos		2.3G	I16167-2.tif	I16167-2_6.png	39M	4656x6264																	NA						
+I16167-3	T	Carlos		2.2G	I16167-3.tif	I16167-3_7.png	11M	2816x3128																	NA						
+I16172	T	Carlos		3.2G	I16172.tif	I16172_7.png	11M	2304x3552																Male	1		Right	Well	Yes	No	
+I16176-2	T	Carlos		1.5G	I16176-2.tif	I16176-2_6.png	25M	3808x4488																Female	1		Right	Poor	Yes	No	
+I16177	T	Carlos		2.7G	I16177.tif	I16177_7.png	13M	2872x3408																	NA						
+I16182	T	Carlos		2.4G	I16182.tif	I16182_6.png	28M	4352x6336																Male	0		Right	Moderate	Yes	No	
+I16197	T	Carlos		1.9G	I16197.tif	I16197_6.png	32M	4896x6040																	NA						
+I17105	T	Carlos		407M	I17105.tif	I17105_5.png	16M	4800x3040																Male	0		Right	Moderate	No	No	
+I17106	T	Carlos		2.0G	I17106.tif	I17106_6.png	35M	3808x6896																	NA						
+I17110	T	Carlos		3.0G	I17110.tif	I17110_6.png	37M	6144x10688																Female	0			Poor	No	No	
+I17112	T	Malena		2.8G	I17112.tif	I17112_6.png	33M	5120x4352																Female	0		Right	Poor	No	Yes	
+I17121	T	Malena		1.8G	I17121.tif	I17121_6.png	27M	4864x3904																Male	0		Right	Moderate	No	No	
+I17126	T	Malena		1.1G	I17126.tif	I17126_5.png	33M	6144x13952																Male	1		Left	Moderate			
+I17126-2	T	Malena		273M	I17126-2.tif	I17126-2_4.png	26M	9216x7936																Male	1		Left	Moderate			
+I17136	T	Malena		848M	I17136.tif	I17136_5.png	33M	5760x4960																	NA						
+I17139	T	Malena		2.5G	I17139.tif	I17139_6.png	29M	3840x5760																Female	0		Left	Moderate	Unknown	No	
+I17149	T	Malena		2.3G	I17149.tif	I17149_6.png	28M	4352x4800																Male	0		Left	Moderate	Yes	No	
+I17151	T	Malena		2.4G	I17151.tif	I17151_6.png	26M	5376x5184																Female	1		Left	Moderate	Yes	Yes	
+I17156	T	Malena		982M	I17156.tif	I17156_6.png	16M	4296x3320																Male	0		Left	Moderate	No	No	
+I17157-2	T	Malena		1.6G	I17157-2.tif	I17157-2_6.png	28M	4784x5312																Male	1		Left	Moderate	Yes	No	
+I17162	T	Malena		5.9G	I17162.tif	I17162_7.png	19M	2816x3840																Female	0		Left	Moderate	No	No	
+I17167	T	Malena		3.5G	I17167.tif	I17167_7.png	18M	3176x3640																	NA						
+I17169	T	Malena		2.0G	I17169.tif	I17169_6.png	26M	3584x4992																Male	0		Left	Moderate	Yes	No	
+I17170	T	Malena		5.0G	I17170.tif	I17170_7.png	17M	2944x3168																Male	0		Left	Moderate	No	No	
+I17172	T	Malena		3.2G	I17172.tif	I17172_6.png	40M	4352x6016																Male	0		Left	Poor	No	Yes	
+I17176	T	Malena		2.4G	I17176.tif	I17176_7.png	12M	2760x3408																Female	1		Left	Moderate	Yes	No	
+I17177	T	Malena		1.6G	I17177.tif	I17177_6.png	33M	4536x5232																Female	NA		Left	Well	Yes	No	
+I17179	T	Malena		3.0G	I17179.tif	I17179_6.png	35M	4608x5440																Male	0		Left	Moderate	No	No	
+I17187	T	Malena		1.7G	I17187.tif	I17187_6.png	30M	4176x5568																	NA						
+I17189	T	Malena		3.3G	I17189.tif	I17189_7.png	12M	2304x3360																	NA						
+I17196	T	Malena		227M	I17196.tif	I17196_5.png	12M	3944x4808																	NA						
+I17197-2	T	Malena		1.6G	I17197-2.tif	I17197-2_6.png	29M	4664x4896																Male	0		Right	Moderate	No	Yes	
+I17199	T	Malena		4.1G	I17199.tif	I17199_7.png	14M	2816x3200																	NA						
+I18107	T	Malena		1.7G	I18107.tif	I18107_6.png	20M	3360x4000																Female	1		Right	Moderate	No	No	
+I18109	T	Malena		3.6G	I18109.tif	I18109_7.png	13M	2560x3040																Male	0		Left	Moderate	Yes	No	
+I18112	T	Malena		2.4G	I18112.tif	I18112_6.png	31M	5376x4736																Male	NA		Left	Moderate	No	No	
+I18119	T	Malena		5.1G	I18119.tif	I18119_7.png	18M	2816x3968																Female	0		Left	Poor	No	Yes	
+I18122	T	Malena		3.1G	I18122.tif	I18122_7.png	12M	2816x2592																Female	0		Right	Moderate	Yes	No	
+I18127-2	T	Malena		2.0G	I18127-2.tif	I18127-2_7.png	11M	2328x3448																Male	1		Left	Moderate	Yes	No	
+I18128	T	Malena		1.2G	I18128.tif	I18128_6.png	13M	3040x3120																Male	0		Right	Well	Yes	No	
+I18136	T	Malena		2.4G	I18136.tif	I18136_6.png	40M	4296x7144																Female	1		Right	Well	No	No	
+I18137-2	T	Malena		1.9G	I18137-2.tif	I18137-2_6.png	34M	4176x6728																Female	0		Left	Moderate	Yes	No	
+I18141	T	Malena		2.8G	I18141.tif	I18141_6.png	36M	4864x4480																Male	0		Left	Moderate	No	No	
+I18146	T	Malena		847M	I18146.tif	I18146_5.png	36M	5440x5760																Male	1		Right	Moderate	Yes	No	
+I18149	T	Malena		3.1G	I18149.tif	I18149_6.png	38M	4864x5760																Female	NA		Right	Moderate	Yes	No	
+I18151	T	Malena		2.4G	I18151.tif	I18151_6.png	29M	4352x5952																Male	0		Right	Moderate	Yes	No	
+I18166	T	Malena		3.0G	I18166.tif	I18166_7.png	17M	2880x3512																Female	0		Left	Moderate	Yes	No	
+I18167	T	Malena		1.6G	I18167.tif	I18167_6.png	30M	4416x5400																	NA						
+I18169	T	Malena		2.1G	I18169.tif	I18169_6.png	22M	4096x5952																Male	NA		Left	Well	Unknown	No	
+I18170	T	Malena		949M	I18170.tif	I18170_6.png	11M	3040x3120																Male	0		Left	Moderate	No	No	
+I18176	T	Malena		1.8G	I18176.tif	I18176_6.png	32M	4296x5480																Female	0		Left	Moderate	No	No	
+I18177-2	T	Malena		2.3G	I18177-2.tif	I18177-2_7.png	11M	2392x3280																Male	0		Left	Well	No	No	
+I18178	T	Malena		1.1G	I18178.tif	I18178_6.png	13M	3360x3200																Female	0		Left	Moderate	No	No	
+I18180	T	Malena		2.8G	I18180.tif	I18180_6.png	34M	4096x7872																Male	NA		Left	Moderate	Yes	No	
+I18180-2	T	Malena		2.9G	I18180-2.tif	I18180-2_6.png	37M	4864x5760																Male	NA		Left	Moderate	Yes	No	
+I18186-2	T	Malena		1019M	I18186-2.tif	I18186-2_6.png	16M	4416x3320																Female	0		Right	Moderate	No	Yes	
+I18187	T	Malena		2.8G	I18187.tif	I18187_7.png	14M	3056x3536																Male	NA		Left	Moderate	Yes	No	
+I18196-2	T	Malena		3.1G	I18196-2.tif	I18196-2_7.png	14M	2816x3744																Male	0		Right	Moderate	No	Yes	
+I18199	T	Malena		3.4G	I18199.tif	I18199_6.png	39M	4864x6656																Male	0		Right	Moderate	No	No	
+I19101	T	Malena		3.0G	I19101.tif	I19101_6.png	38M	4352x6784																Female	0		Right	Moderate	No	No	
+I19107-2	T	Malena		1.7G	I19107-2.tif	I19107-2_6.png	29M	4176x5072																	NA						
+I19111	T	Malena		4.0G	I19111.tif	I19111_7.png	13M	2432x6368																Female	0		Right	Moderate	Yes	No	
+I19116-2	T	Malena		1.1G	I19116-2.tif	I19116-2_6.png	18M	3320x4320																	NA						
+I19120	T	Malena		3.1G	I19120.tif	I19120_6.png	36M	4864x6464																Male	0		Left	Moderate	Yes	No	
+I19151	T	Malena		4.1G	I19151.tif	I19151_7.png	12M	3072x3168																Male	0		Left	Moderate	No	No	
+I19157-2	T	Malena		1.6G	I19157-2.tif	I19157-2_6.png	29M	5256x3928																Male	0		Left	Moderate	Yes	No	
+I19159	T	Malena		4.5G	I19159.tif	I19159_7.png	15M	2944x4480																Female	0		Right	Well	Yes	No	
+I19161	T	Malena		3.0G	I19161.tif	I19161_6.png	35M	4608x6080																Female	0		Left	Moderate	No	No	
+I19167	T	Malena		2.5G	I19167.tif	I19167_7.png	12M	2576x3432																	NA						
+I19176-2	T	Malena		1.1G	I19176-2.tif	I19176-2_6.png	20M	3072x4400																	NA						
+I19177-2	T	Malena		2.8G	I19177-2.tif	I19177-2_7.png	14M	2640x3328																Male	0		Right	Moderate	Yes	No	
+I19186	T	Malena		2.8G	I19186.tif	I19186_7.png	13M	2696x3120																Male	NA		Left	Moderate	No	No	
+I19190	T	Malena		1.1G	I19190.tif	I19190_6.png	11M	2560x3520																Male	0		Right	Well	Yes	No	
+I19194	T	Malena		1.8G	I19194.tif	I19194_6.png	22M	3360x4720																Female	0		Left	Moderate	Unknown	No	
+I19820	T	Malena		3.3G	I19820.tif	I19820_7.png	14M	2816x3328																Male	NA		Right	Moderate	Yes	Yes	
+I20106	T	Malena		882M	I20106.tif	I20106_6.png	12M	3072x3136																Female	1		Left	Well	Unknown	Unknown	
+I20168	T	Malena		575M	I20168.tif	I20168_5.png	25M	4160x4960																Female	0		Left	Moderate	Yes	No	
+I20180	T	Malena		751M	I20180.tif	I20180_5.png	32M	5760x5120																Female	NA		Right	Well	Yes	No	
+I20182	T	Malena		1.2G	I20182.tif	I20182_6.png	13M	2560x4240																Male	0			Well	No	No	
+I21113	T	Malena		1.4G	I21113.tif	I21113_6.png	17M	3200x3760																Male	1		Right	Well	Yes	No	
+I21124	T	Malena		420M	I21124.tif	I21124_5.png	15M	4608x8704																Male	1		Left	Well			
+I21171	T	Malena		1.7G	I21171.tif	I21171_6.png	20M	3840x3456																Female	0		Left	Moderate	No	No	
+I22114	T	Malena		3.3G	I22114.tif	I22114_6.png	31M	4352x11200																Male	0		Right	Moderate	Yes	No	
+I22120	T	Malena		1.2G	I22120.tif	I22120_6.png	11M	3840x3776																Male	0		Left	Moderate	Unknown	Unknown	
+I22172	T	Malena		862M	I22172.tif	I22172_5.png	36M	4480x5920																Male	0		Left	Moderate	No	No	
+I22197	T	Malena		751M	I22197.tif	I22197_5.png	30M	4800x6400																Female	0		Left	Moderate	No	No	
+I23116	T	Malena		2.7G	I23116.tif	I23116_6.png	31M	4352x6912																Female	0		Right	Moderate	Yes	No	
+I24103	T	Malena		857M	I24103.tif	I24103_5.png	35M	4800x6080																Female	0		Right	Moderate	Yes	No	
+I24171	T	Malena		3.6G	I24171.tif	I24171_7.png	12M	2816x3328																Male	1		Right	Moderate	Yes	No	
+I25135	T	Malena		3.5G	I25135.tif	I25135_6.png	38M	5376x7104																Male	0		Left	Moderate	Unknown	No	
+I25192	T	Malena		1.2G	I25192.tif	I25192_6.png	13M	2720x3120																Male	1		Right	Poor	No	No	
+I26148	T	Malena		1.2G	I26148.tif	I26148_5.png	38M	8192x11648																Male	NA		Left	Unknown	Unknown	Unknown	
+I26196	T	Malena		3.4G	I26196.tif	I26196_7.png	11M	2176x3456																Male	NA		Left	Unknown	Unknown		
+I27143	T	Malena		765M	I27143.tif	I27143_5.png	29M	5440x6240																	NA						
+I28112	T	Malena		1009M	I28112.tif	I28112_6.png	11M	2400x4160																Female	0		Right	Moderate	Yes	No	
+I28115	T	Malena		2.9G	I28115.tif	I28115_6.png	34M	4608x5952																Female	0		Left	Well	Unknown	No	
+I28193	T	Malena		6.2G	I28193.tif	I28193_7.png	21M	2432x5984																Female	0		Left	Moderate	Unknown	No	
+I29137	T	Malena		948M	I29137.tif	I29137_5.png	40M	6080x6560																Female	1		Left	Moderate	No	No	
+I29170	T	Malena		2.1G	I29170.tif	I29170_6.png	26M	3328x5312																Female	0		Left	Moderate	No	No	
+I29195	T	Malena		1.1G	I29195.tif	I29195_5.png	27M	7168x11136																Female	NA		Left	Well			
+I30133	T	Malena		539M	I30133.tif	I30133_5.png	19M	6144x14592																Female	NA		Left	Moderate			
+I30137	T	Malena		3.6G	I30137.tif	I30137_7.png	13M	2944x3616																Male	0		Left	Moderate		No	
+I30155	T	Malena		363M	I30155.tif	I30155_5.png	13M	5120x8192																Female	1		Left				
+I30169	T	Malena		1.7G	I30169.tif	I30169_6.png	23M	4608x3200																Female	0		Left	Moderate		No	
+I30182	T	Malena		626M	I30182.tif	I30182_5.png	25M	4480x6400																Male	0		Left	Moderate		No	
+I31112	T	Malena		1.7G	I31112.tif	I31112_6.png	21M	2880x5440																Female	0		Left	Moderate		No	
+I31122	T	Malena		1.1G	I31122.tif	I31122_6.png	13M	3200x5680																Male	NA		Left	Moderate		No	
+I31149	T	Malena		729M	I31149.tif	I31149_5.png	33M	4160x5600																Male	NA		Left	Moderate	Unknown	No	
+I31150	T	Malena		4.2G	I31150.tif	I31150_7.png	12M	2688x3776																Female	0		Left	Moderate	No	No	
+I31176	T	Malena		179M	I31176.tif	I31176_4.png	28M	13312x18944																Male	1		Left	Well			
+I31187	T	Malena		2.0G	I31187.tif	I31187_6.png	25M	5120x6016																Female	0		Left	Moderate		No	
+I31192	T	Malena		1.3G	I31192.tif	I31192_6.png	15M	3360x4320																Female	0		Left	Moderate	Yes	No	
+I32105	T	Malena		940M	I32105.tif	I32105_5.png	36M	6080x6720																Female	0		Right	Moderate	No	No	
+I32111	T	Malena		341M	I32111.tif	I32111_5.png	12M	3072x7936																Female	NA		Left				
+I32144	T	Malena		483M	I32144.tif	I32144_5.png	16M	2880x5760																	NA						
+I32164	T	Malena		1.2G	I32164.tif	I32164_6.png	13M	3040x3200																Male	0		Left	Moderate	No	No	
+I32166	T	Malena		650M	I32166.tif	I32166_5.png	18M	5120x8064																Male	NA		Left	Well			
+I33113	T	Malena		748M	I33113.tif	I33113_5.png	31M	5760x5440																Female	NA		Left	Unknown	Unknown	Unknown	
+I34117	T	Malena		907M	I34117.tif	I34117_5.png	39M	6400x5280																Female	1		Right	Poor	Yes	No	
+I34122	T	Malena		847M	I34122.tif	I34122_5.png	29M	4160x7520																Male	0		Left	Moderate	No	No	
+I34133	T	Malena		959M	I34133.tif	I34133_6.png	11M	2240x3360																Male	1		Left	Moderate	Yes	Yes	
+I34148	T	Malena		798M	I34148.tif	I34148_5.png	34M	4160x6560																Male	1		Right	Moderate	No	No	
+I34162	T	Malena		953M	I34162.tif	I34162_6.png	11M	2560x3440																Female	0		Right	Moderate	Yes	No	
+I34165	T	Malena		1.9G	I34165.tif	I34165_6.png	18M	3200x4000																Male	0		Right	Moderate	No	Yes	
+I34172	T	Malena		969M	I34172.tif	I34172_6.png	12M	2560x3680																Female	0		Left	Moderate		No	
+I34184	T	Malena		2.9G	I34184.tif	I34184_6.png	38M	5888x4800																Male	0		Left	Moderate	No	No	
+I35141	T	Malena		869M	I35141.tif	I35141_5.png	37M	4800x5600																Female	1		Right	Well	Yes	No	
+I35142	T	Malena		1.1G	I35142.tif	I35142_6.png	11M	2720x4400																Male	0		Left	Moderate	No	No	
+I35151	T	Malena		1.4G	I35151.tif	I35151_6.png	16M	2560x4080																Female	1		Right	Well	Yes	No	
+I35162	T	Malena		1.2G	I35162.tif	I35162_6.png	13M	2720x3360																Male	0		Left	Moderate		No	
+I35163	T	Malena		943M	I35163.tif	I35163_5.png	39M	4160x6880																Female	0		Left	Moderate	No	No	
+I35190	T	Malena		1.3G	I35190.tif	I35190_6.png	16M	2304x5568																Male	1		Left	Moderate			
+I36103	T	Malena		1.1G	I36103.tif	I36103_6.png	12M	3200x3680																Female	0		Left	Moderate		No	
+I36142	T	Malena		851M	I36142.tif	I36142_5.png	37M	6080x5920																Female	0		Left	Moderate	Yes	No	
+I36163	T	Malena		1.1G	I36163.tif	I36163_6.png	14M	3040x3200																Female	1		Left	Moderate		No	
+I36172	T	Malena		766M	I36172.tif	I36172_5.png	36M	5440x4640																Male	0		Left	Moderate		Yes	
+I36176	T	Malena		1.1G	I36176.tif	I36176_6.png	11M	2560x6464																Male	NA		Left	Well	Unknown	Unknown	
+I36183	T	Malena		921M	I36183.tif	I36183_5.png	39M	5120x6720																Female	0		Left	Moderate	Yes	No	
+I37111	T	Malena		597M	I37111.tif	I37111_5.png	20M	4160x5440																Male	0		Right	Poor	Yes	No	
+I37118	T	Malena		504M	I37118.tif	I37118_5.png	17M	3584x9856																Female	NA		Left	Unknown			
+I37132	T	Malena		1.1G	I37132.tif	I37132_6.png	11M	2560x3600																Male	1		Left	Moderate	Yes	No	
+I37141	T	Malena		631M	I37141.tif	I37141_5.png	27M	3840x6400																Female	0		Right	Moderate	Yes	No	
+I37153	T	Malena		1.1G	I37153.tif	I37153_6.png	12M	2880x3120																Male	0		Left	Moderate		No	
+I37163	T	Malena		1.2G	I37163.tif	I37163_6.png	14M	2880x3440																Male	0		Left	Well		No	
+I38103	T	Malena		1.3G	I38103.tif	I38103_6.png	15M	3360x5760																Female	0			Moderate		No	
+I38122	T	Malena		1.3G	I38122.tif	I38122_6.png	15M	3040x2960																Male	0		Left	Moderate		No	
+I38137	T	Malena		1.4G	I38137.tif	I38137_6.png	18M	3072x4288																Male	0		Left	Unknown			
+I38141	T	Malena		1.5G	I38141.tif	I38141_6.png	16M	3040x4160																Female	1		Left	Moderate	Yes	No	
+I38162	T	Malena		1.2G	I38162.tif	I38162_6.png	14M	3040x3280																Male	0		Right	Well	Yes	No	
+I38183	T	Malena		891M	I38183.tif	I38183_6.png	11M	3360x3280																Female	0		Left	Moderate		No	
+I39105	T	Malena		951M	I39105.tif	I39105_6.png	10M	2880x3040																Male	0		Right	Poor	No	No	
+I39123	T	Malena		1.1G	I39123.tif	I39123_6.png	11M	3040x3280																	NA						
+I39141	T	Malena		1.1G	I39141.tif	I39141_6.png	13M	3200x2960																Female	0		Left	Moderate		No	
+I39142	T	Malena		1.4G	I39142.tif	I39142_6.png	17M	2720x3920																Male	0		Right	Poor		Yes	
+I39153	T	Malena		899M	I39153.tif	I39153_5.png	38M	5440x5920																Female	1		Right	Well	No	No	
+I39161	T	Malena		591M	I39161.tif	I39161_5.png	29M	4480x4800																Male	1		Left	Well		No	
+I39172	T	Malena		1007M	I39172.tif	I39172_6.png	11M	2560x3440																Female	0		Right	Moderate	Yes	No	
+I39173	T	Malena		1.1G	I39173.tif	I39173_6.png	14M	2720x3520																Female	0		Left	Moderate		No	
+I40104	T	Malena		436M	I40104.tif	I40104_5.png	27M	6016x4336																Male	0		Left	Moderate		No	
+I40108	T	Malena		877M	I40108.tif	I40108_5.png	39M	5440x4960																Male	0		Other	Moderate		No	
+I40109	T	Malena		918M	I40109.tif	I40109_5.png	38M	5760x5920																Female	0		Right	Moderate		No	
+I40114	T	Malena		714M	I40114.tif	I40114_6.png	12M	2904x3184																Male	0		Left	Moderate		No	
+I40115	T	Malena		817M	I40115.tif	I40115_6.png	14M	3008x3832																Female	0		Right	Well		No	
+I40118	T	Malena		1010M	I40118.tif	I40118_6.png	12M	2880x3120																Male	1		Right	Moderate		No	
+I40119	T	Malena		750M	I40119.tif	I40119_5.png	31M	4800x6720																Male	0		Left	Moderate		No	
+I40124	T	Malena		695M	I40124.tif	I40124_6.png	12M	2704x3616																Male	0		Left	Moderate		No	
+I40125	T	Malena		384M	I40125.tif	I40125_5.png	24M	3744x5208																Female	0		Left	Moderate		No	
+I40126	T	Malena		450M	I40126.tif	I40126_5.png	28M	5608x4912																	NA						
+I40129	T	Malena		826M	I40129.tif	I40129_5.png	38M	5760x5280																Male	0		Left	Moderate			
+I40130	T	Malena		822M	I40130.tif	I40130_5.png	31M	4608x12800																Male	NA		Left	Unknown			
+I40134	T	Malena		598M	I40134.tif	I40134_6.png	10M	2600x3328																Male	0		Left	Moderate		No	
+I40140	T	Malena		1.2G	I40140.tif	I40140_6.png	14M	2720x3440																Female	0		Right	Moderate		No	
+I40145	T	Malena		537M	I40145.tif	I40145_5.png	36M	5608x6200																Male	0		Left	Moderate		No	
+I40148	T	Malena		836M	I40148.tif	I40148_5.png	34M	6080x6560																Male	0		Left	Well		No	
+I40154	T	Malena		458M	I40154.tif	I40154_5.png	30M	4984x4920																Male	0		Left	Moderate		No	
+I40157	T	Malena		558M	I40157.tif	I40157_6.png	11M	2704x3832																Male	1		Right	Moderate		Yes	
+I40158	T	Malena		716M	I40158.tif	I40158_5.png	25M	4800x7520																Male	0		Left	Moderate		Unknown	
+I40164	T	Malena		525M	I40164.tif	I40164_6.png	10M	2392x2896																Female	0		Right	Moderate		No	
+I40166	T	Malena		412M	I40166.tif	I40166_5.png	26M	5600x5640																Female	0		Left	Well		No	
+I40174	T	Malena		493M	I40174.tif	I40174_5.png	36M	4976x5744																Female	0		Left	Poor		No	
+I40184	T	Malena		555M	I40184.tif	I40184_5.png	34M	5816x5928																Female	0		Left	Moderate		No	
+I40194	T	Malena		430M	I40194.tif	I40194_5.png	27M	4576x5208																Female	0		Other	Moderate		Yes	
+I41109	T	Malena		348M	I41109.tif	I41109_5.png	12M	4480x3520																Male	0		Right	Well			
+I41114	T	Malena		282M	I41114.tif	I41114_5.png	18M	4160x5496																Female	1			Unknown		Unknown	
+I41116	T	Malena		392M	I41116.tif	I41116_5.png	27M	4776x4624																Female	0		Right	Well		No	
+I41119	T	Malena		981M	I41119.tif	I41119_6.png	12M	3360x2960																Female	0		Left	Well		No	
+I41128	T	Malena		938M	I41128.tif	I41128_5.png	37M	6080x7360																Male	0		Left	Moderate		No	
+I41130	T	Malena		1012M	I41130.tif	I41130_6.png	11M	2720x3680																Male	0		Right	Moderate			
+I41134	T	Malena		313M	I41134.tif	I41134_5.png	19M	3744x5056																Female	0		Left	Well		No	
+I41157	T	Malena		619M	I41157.tif	I41157_6.png	12M	2704x3328																Male	0		Right	Moderate		No	
+I41159	T	Malena		1.2G	I41159.tif	I41159_6.png	13M	3040x3920																Female	0		Right	Moderate		No	
+I41165	T	Malena		357M	I41165.tif	I41165_5.png	27M	4984x4336																Female	0		Right	Moderate		No	
+I41174	T	Malena		561M	I41174.tif	I41174_5.png	38M	5392x5064																Female	0		Left	Moderate		No	
+I41179	T	Malena		2.5G	I41179.tif	I41179_6.png	34M	5632x4480																Male	0		Left	Well	Yes	Yes	
+I41184	T	Malena		440M	I41184.tif	I41184_5.png	28M	6024x4912																Male	0		Left	Unknown		Unknown	
+I42108	T	Malena		1.1G	I42108.tif	I42108_6.png	13M	3040x3200																Female	0		Right	Moderate		No	
+I42110	T	Malena		482M	I42110.tif	I42110_5.png	17M	5120x13056																Female	0		Left	Unknown			
+I42114	T	Malena		507M	I42114.tif	I42114_5.png	31M	4360x6504																Female	1			Moderate		No	
+I42115	T	Malena		604M	I42115.tif	I42115_6.png	11M	2696x2888																Female	0		Left	Moderate		Yes	
+I42123	T	Malena		907M	I42123.tif	I42123_5.png	36M	4608x11264																Female	NA		Left	Well	Unknown	Unknown	
+I42124	T	Malena		320M	I42124.tif	I42124_5.png	21M	4160x4624																Female	0		Left	Moderate		No	
+I42128	T	Malena		801M	I42128.tif	I42128_5.png	32M	5760x6400																Male	1		Right	Moderate		No	
+I42147	T	Malena		435M	I42147.tif	I42147_5.png	29M	4160x5496																Male	NA						
+I42147-2	T	Malena		384M	I42147-2.tif	I42147-2_5.png	25M	4160x5928																Male	NA						
+I42158	T	Malena		723M	I42158.tif	I42158_5.png	32M	5760x4480																Male	0		Left	Moderate		No	
+I42168	T	Malena		751M	I42168.tif	I42168_5.png	33M	5440x5440																Male	0		Left	Moderate		No	
+I42169	T	Malena		976M	I42169.tif	I42169_5.png	39M	5760x8000																Female	0		Left	Well			
+I42184	T	Malena		485M	I42184.tif	I42184_5.png	33M	4368x5064																Male	0		Right	Moderate		No	
+I42187	T	Malena		310M	I42187.tif	I42187_5.png	19M	3744x6360																Male	0		Other	Moderate		No	
+I42196	T	Malena		368M	I42196.tif	I42196_5.png	21M	4568x6360																	NA						
+I43117	T	Malena		637M	I43117.tif	I43117_6.png	11M	2800x2968																Male	1		Left	Moderate		No	
+I43119	T	Malena		1.2G	I43119.tif	I43119_6.png	13M	2720x4480																Male	0		Left	Moderate			
+I43124	T	Malena		405M	I43124.tif	I43124_5.png	29M	4576x6072																Female	1		Left	Well		No	
+I43134	T	Malena		577M	I43134.tif	I43134_5.png	38M	6016x4776																Male	0		Right	Moderate		No	
+I43137	T	Malena		599M	I43137.tif	I43137_5.png	37M	5600x6656																Male	1		Right	Well		No	
+I43144	T	Malena		347M	I43144.tif	I43144_5.png	21M	5400x3904																Male	0		Left	Moderate		No	
+I43146	T	Malena		514M	I43146.tif	I43146_5.png	32M	6024x5928																Female	0		Left	Moderate		No	
+I43154	T	Malena		609M	I43154.tif	I43154_6.png	10M	2392x3032																Male	0		Left	Moderate		No	
+I43158	T	Malena		982M	I43158.tif	I43158_6.png	11M	2880x3120																	NA						
+I43174	T	Malena		497M	I43174.tif	I43174_5.png	34M	4984x5064																Female	0		Left	Moderate		No	
+I43190	T	Malena		429M	I43190.tif	I43190_5.png	12M	3584x9216																Female	1			Moderate			
+I43194	T	Malena		461M	I43194.tif	I43194_5.png	33M	4568x5640																Female	NA		Left	Moderate		No	
+I43197	T	Malena		508M	I43197.tif	I43197_5.png	35M	5400x5480																Male	0		Left	Moderate		No	
+I44124	T	Malena		311M	I44124.tif	I44124_5.png	22M	3744x4624																Male	0		Right	Moderate		No	
+I44125	T	Malena		403M	I44125.tif	I44125_5.png	28M	4368x5352																Male	0		Right	Moderate		No	
+I44127	T	Malena		603M	I44127.tif	I44127_6.png	11M	2496x3184																Female	1		Left	Moderate		No	
+I44144	T	Malena		403M	I44144.tif	I44144_5.png	29M	3536x6072																Male	0		Other	Moderate		No	
+I44146	T	Malena		518M	I44146.tif	I44146_5.png	32M	5816x6504																Male	0		Right	Moderate		No	
+I44159	T	Malena		701M	I44159.tif	I44159_5.png	26M	5440x7200																Male	0		Right	Moderate			
+I44164	T	Malena		401M	I44164.tif	I44164_5.png	27M	4576x5496																Female	0		Right	Moderate		No	
+I44166	T	Malena		532M	I44166.tif	I44166_5.png	33M	5608x5928																Male	0		Left	Moderate		No	
+I44167	T	Malena		336M	I44167.tif	I44167_5.png	21M	5400x3752																Female	0		Left	Moderate		No	
+I44174	T	Malena		331M	I44174.tif	I44174_5.png	23M	3744x5352																Female	0		Right	Moderate		No	
+I44176	T	Malena		450M	I44176.tif	I44176_5.png	28M	5192x5496																Male	0		Right	Well		No	
+I44179	T	Malena		3.0G	I44179.tif	I44179_7.png	11M	2432x3104																Male	0		Right	Moderate	Yes	No	
+I44188	T	Malena		771M	I44188.tif	I44188_5.png	37M	5440x5280																Female	0			Poor		No	
+I44194	T	Malena		161M	I44194.tif	I44194_4.png	34M	8392x9264																Female	0		Right	Moderate		No	
+I44196	T	Malena		632M	I44196.tif	I44196_6.png	10M	2600x3256																Female	1		Right	Poor		Yes	
+I45107	T	Malena		265M	I45107.tif	I45107_5.png	18M	3128x5208																Female	1		Right	Moderate		No	
+I45117	T	Malena		696M	I45117.tif	I45117_6.png	11M	2600x3544																Female	1		Right	Well		No	
+I45125	T	Malena		160M	I45125.tif	I45125_4.png	37M	7072x6928																Male	0		Left	Moderate		Unknown	
+I45134	T	Malena		484M	I45134.tif	I45134_5.png	32M	5608x5344																Male	1		Other	Moderate		Yes	
+I45139	T	Malena		2.6G	I45139.tif	I45139_6.png	37M	4608x5440																Male	0		Left	Moderate	Yes	No	
+I45142	T	Malena		2.1G	I45142.tif	I45142_6.png	28M	5888x3584																Male	0		Left	Moderate		No	
+I45153	T	Montse		2.2G	I45153.tif	I45153_6.png	28M	4096x5568																Male	0		Left	Well	Unknown	Unknown	
+I45154	T	Montse		421M	I45154.tif	I45154_5.png	26M	4744x5776																Male	0		Right	Moderate		No	
+I45155	T	Montse		370M	I45155.tif	I45155_5.png	19M	6024x5488																Male	1		Right	Poor		No	
+I45164	T	Montse		607M	I45164.tif	I45164_5.png	38M	4552x6792																Female	0		Left	Moderate		No	
+I45174	T	Montse		447M	I45174.tif	I45174_5.png	32M	3952x5784																Female	0		Left	Moderate		No	
+I45176	T	Montse		315M	I45176.tif	I45176_5.png	20M	4984x5784																Male	0			Moderate		Unknown	
+I45177	T	Montse		608M	I45177.tif	I45177_5.png	39M	4160x6800																Female	0		Right	Moderate		No	
+I45179	T	Montse		3.9G	I45179.tif	I45179_7.png	14M	2688x3520																Male	0		Left	Moderate	Yes	No	
+I45184	T	Montse		634M	I45184.tif	I45184_6.png	11M	3008x3112																Male	0		Left	Moderate		No	
+I45185	T	Montse		726M	I45185.tif	I45185_6.png	13M	2496x3328																Male	1		Right	Poor		No	
+I45187	T	Montse		378M	I45187.tif	I45187_5.png	24M	3952x5208																Male	0		Left	Moderate		No	
+I45192	T	Montse		1.8G	I45192.tif	I45192_6.png	35M	4536x4984																Male	0			Moderate	Yes	No	
+I45192-2	T	Montse		1.8G	I45192-2.tif	I45192-2_6.png	36M	5144x4496																Male	0			Moderate	Yes	No	
+I45196	T	Montse		549M	I45196.tif	I45196_5.png	35M	5392x5488																Female	1		Right	Well		No	
+I45198	T	Montse		1.2G	I45198.tif	I45198_6.png	14M	3040x3920																Male	1		Right	Poor		No	
+I46104	T	Montse		272M	I46104.tif	I46104_5.png	16M	3952x3904																Female	0		Right	Moderate		No	
+I46106	T	Montse		582M	I46106.tif	I46106_5.png	37M	4776x7232																Male	0		Left	Moderate		No	
+I46107	T	Montse		377M	I46107.tif	I46107_5.png	23M	4368x4624																Male	0		Right	Moderate		No	
+I46115	T	Montse		557M	I46115.tif	I46115_5.png	33M	4984x6944																Male	0						
+I46125	T	Montse		292M	I46125.tif	I46125_5.png	17M	6224x4480																Male	1		Left	Unknown		Unknown	
+I46135	T	Montse		522M	I46135.tif	I46135_5.png	32M	6208x5184																Male	0		Right	Moderate		No	
+I46136	T	Montse		416M	I46136.tif	I46136_5.png	28M	5608x3904																Male	0		Left	Moderate		No	
+I46144	T	Montse		689M	I46144.tif	I46144_6.png	11M	2912x2824																Male	1		Left	Well		No	
+I46155	T	Montse		592M	I46155.tif	I46155_5.png	38M	4776x5640																Male	0		Left	Moderate		No	
+I46156	T	Montse		507M	I46156.tif	I46156_5.png	31M	5400x5784																Male	0		Left	Moderate		No	
+I46157	T	Montse		314M	I46157.tif	I46157_5.png	19M	4576x3904																Male	0		Right	Moderate		No	
+I46175	T	Montse		654M	I46175.tif	I46175_6.png	11M	2904x3032																Female	0		Left	Moderate		Unknown	
+I46176	T	Montse		600M	I46176.tif	I46176_6.png	11M	2600x3328																Male	0		Right	Well		No	
+I46197	T	Montse		349M	I46197.tif	I46197_5.png	22M	4368x3752																	NA						
+I47104	T	Montse		402M	I47104.tif	I47104_5.png	25M	4776x4192																Female	0		Right	Moderate		No	
+I47114	T	Montse		289M	I47114.tif	I47114_5.png	19M	3952x3464																Female	0		Other	Moderate		No	
+I47124	T	Montse		527M	I47124.tif	I47124_5.png	38M	3952x6800																Male	0		Left	Moderate		No	
+I47144	T	Montse		495M	I47144.tif	I47144_5.png	32M	4568x5928																Female	0		Left	Moderate		Yes	
+I47145	T	Montse		504M	I47145.tif	I47145_5.png	32M	4368x5488																Female	1		Right	Moderate		No	
+I47147	T	Montse		356M	I47147.tif	I47147_5.png	23M	4368x5784																Female	0		Right	Moderate		No	
+I47148	T	Montse		920M	I47148.tif	I47148_5.png	38M	5760x7520																Male	1		Right	Well		No	
+I47157	T	Montse		853M	I47157.tif	I47157_6.png	14M	2808x4264																Male	0		Left	Moderate		No	
+I47161	T	Montse		2.2G	I47161.tif	I47161_6.png	29M	3840x6208																Female	0		Right	Well	Yes	Yes	
+I47164	T	Montse		338M	I47164.tif	I47164_5.png	21M	4160x5056																Male	1		Right	Moderate		No	
+I47165	T	Montse		438M	I47165.tif	I47165_5.png	27M	4576x4912																Female	1		Right	Well	Yes	No	
+I47168	T	Montse		940M	I47168.tif	I47168_5.png	36M	4800x7680																Female	1		Left	Moderate		No	
+I47175	T	Montse		416M	I47175.tif	I47175_5.png	26M	5808x4624																Female	0		Left	Poor		No	
+I47176	T	Montse		451M	I47176.tif	I47176_5.png	32M	4160x6944																Male	0		Left	Moderate		No	
+I47192	T	Montse		1.8G	I47192.tif	I47192_6.png	26M	3584x5376																Male	0		Left	Moderate	Yes	No	
+I47197	T	Montse		544M	I47197.tif	I47197_5.png	36M	4568x6944																Male	0		Left	Moderate		No	
+I47198	T	Montse		918M	I47198.tif	I47198_6.png	11M	2400x3760																Female	0		Left	Moderate		No	
+I48106	T	Montse		286M	I48106.tif	I48106_5.png	15M	4160x5776																Male	0		Right	Moderate		Unknown	
+I48107	T	Montse		1.1G	I48107.tif	I48107_6.png	12M	2880x3280																Female	0		Left	Moderate		No	
+I48108	T	Montse		1.2G	I48108.tif	I48108_6.png	13M	3200x3520																Male	0		Left	Moderate		No	
+I48109	T	Montse		411M	I48109.tif	I48109_5.png	16M	3520x5280																Male	NA		Left	Well			
+I48117	T	Montse		744M	I48117.tif	I48117_5.png	31M	4800x5760																Male	0		Left	Moderate		No	
+I48127	T	Montse		664M	I48127.tif	I48127_5.png	31M	4480x4960																Male	1		Right	Moderate		No	
+I48128	T	Montse		861M	I48128.tif	I48128_6.png	11M	2880x2960																Male	0		Left	Moderate		No	
+I48129	T	Montse		757M	I48129.tif	I48129_5.png	31M	6400x5440																Male	0		Right				
+I48134	T	Montse		456M	I48134.tif	I48134_5.png	28M	5400x4768																Female	0		Left	Moderate		No	
+I48135	T	Montse		263M	I48135.tif	I48135_5.png	15M	4784x3464																Male	0		Right	Moderate		No	
+I48139	T	Montse		146M	I48139.tif	I48139_4.png	18M	6144x17920																Male	NA		Left	Poor	Unknown	Unknown	
+I48154	T	Montse		2.6G	I48154.tif	I48154_6.png	35M	5376x5312																Female	0		Other	Well		No	
+I48167	T	Montse		1.3G	I48167.tif	I48167_6.png	12M	3360x4480																Male	1		Right	Well		No	
+I48168	T	Montse		875M	I48168.tif	I48168_5.png	40M	6080x6240																Female	NA		Left	Unknown		Unknown	
+I48174	T	Montse		342M	I48174.tif	I48174_5.png	28M	5400x4752																Female	0		Left	Moderate		Unknown	
+I48175	T	Montse		315M	I48175.tif	I48175_5.png	19M	4160x4192																Female	0		Right	Poor		No	
+I48196	T	Montse		858M	I48196.tif	I48196_6.png	15M	2912x3112																Male	NA						
+I48198	T	Montse		1.1G	I48198.tif	I48198_6.png	14M	3360x2880																Female	0		Right	Moderate		No	
+I49105	T	Montse		369M	I49105.tif	I49105_5.png	25M	4368x4912																Male	0		Left	Moderate		No	
+I49107	T	Montse		764M	I49107.tif	I49107_5.png	31M	5120x6400																Male	0		Right	Moderate		No	
+I49108	T	Montse		758M	I49108.tif	I49108_5.png	34M	5120x5760																Male	NA		Left	Moderate		No	
+I49117	T	Montse		931M	I49117.tif	I49117_5.png	39M	6080x5920																Male	0		Left	Moderate		Yes	
+I49128	T	Montse		1.3G	I49128.tif	I49128_6.png	16M	3200x4000																Female	0		Right	Moderate		No	
+I49138	T	Montse		2.5G	I49138.tif	I49138_6.png	34M	5888x4288																Female	0		Left	Moderate	Yes	No	
+I49139	T	Montse		2.7G	I49139.tif	I49139_6.png	34M	4352x5376																Female	1		Left	Moderate	Yes	No	
+I49142	T	Montse		2.7G	I49142.tif	I49142_6.png	35M	4096x8064																	NA						
+I49154	T	Montse		400M	I49154.tif	I49154_5.png	30M	3528x6360																Male	0		Left	Moderate		No	
+I49157	T	Montse		1.1G	I49157.tif	I49157_6.png	12M	2880x4080																Female	0		Left	Moderate		No	
+I49174	T	Montse		376M	I49174.tif	I49174_5.png	21M	5400x5488																Female	NA		Left	Moderate		No	
+I49177	T	Montse		837M	I49177.tif	I49177_5.png	37M	5440x5440																Male	0		Left	Moderate		No	
+I49185	T	Montse		320M	I49185.tif	I49185_5.png	23M	5400x4040																	NA						
+I49189	T	Montse		2.2G	I49189.tif	I49189_6.png	27M	5120x7488																Male	1		Right	Moderate	Yes	No	
+I49193	T	Montse		344M	I49193.tif	I49193_5.png	23M	5192x3760																Male	0		Other	Well		No	
+I49197	T	Montse		2.1G	I49197.tif	I49197_6.png	29M	3584x5120																Male	0		Left	Moderate		No	
+I49199	T	Montse		4.4G	I49199.tif	I49199_7.png	14M	2944x4032																Female	NA		Right	Moderate	No	No	
+I50100	T	Montse		3.8G	I50100.tif	I50100_7.png	13M	2688x3648																Male	0		Left	Moderate		No	
+I50110	T	Montse		2.5G	I50110.tif	I50110_6.png	34M	5888x4672																Female	NA		Left	Moderate	No	No	
+I50118	T	Montse		848M	I50118.tif	I50118_6.png	16M	3320x3400																Male	NA		Right	Moderate	No	No	
+I50120	T	Montse		2.6G	I50120.tif	I50120_6.png	35M	4096x6336																Female	1		Left	Moderate	No	No	
+I50140	T	Montse		3.3G	I50140.tif	I50140_7.png	12M	3200x3008																Male	0		Right	Moderate	No	No	
+I50160	T	Montse		2.5G	I50160.tif	I50160_6.png	32M	5120x5952																	NA						
+I50181	T	Montse		3.8G	I50181.tif	I50181_7.png	14M	2688x3200																Female	1		Right	Moderate	Yes	Yes	
+I50190	T	Montse		3.5G	I50190.tif	I50190_7.png	12M	2944x2976																Male	0		Left	Moderate	No	No	
+I51101	T	Montse		3.1G	I51101.tif	I51101_7.png	11M	2432x2912																Male	0		Right	Well	Yes	No	
+I51120	T	Montse		960M	I51120.tif	I51120_6.png	11M	3072x3520																Male	0		Left	Moderate			
+I52121	T	Montse		3.1G	I52121.tif	I52121_7.png	11M	2304x2944																Male	1			Moderate	Yes	No	
+I53121	T	Montse		3.4G	I53121.tif	I53121_7.png	12M	2560x3360																Male	0		Left	Well	Yes	No	
+I53143	T	Montse		1.6G	I53143.tif	I53143_6.png	32M	4776x4480																Female	0		Left	Moderate	No	No	
+I53163	T	Montse		1.5G	I53163.tif	I53163_6.png	31M	5024x4064																Male	1		Left	Poor	No	Yes	
+I53170	T	Montse		1.7G	I53170.tif	I53170_6.png	22M	3840x4416																Male	0		Other	Moderate	Yes	No	
+I53181	T	Montse		2.9G	I53181.tif	I53181_7.png	11M	2176x2752																Female	1			Moderate	Yes	No	
+I53191	T	Montse		3.3G	I53191.tif	I53191_7.png	13M	2688x3168																Male	0		Left	Moderate	Yes	No	
+I54190	T	Montse		1.2G	I54190.tif	I54190_6.png	15M	3840x3584																Male	0		Left	Moderate	Yes	Yes	
+I55101	T	Montse		3.2G	I55101.tif	I55101_7.png	12M	2688x2848																Male	0		Left	Moderate	Yes	No	
+I55135	T	Montse		1.8G	I55135.tif	I55135_6.png	36M	5144x4816																Male	1			Moderate	No	No	
+I55171	T	Montse		3.5G	I55171.tif	I55171_7.png	13M	2944x3200																Male	1			Well	Yes	No	
+I56141	T	Montse		2.1G	I56141.tif	I56141_6.png	28M	4352x4224																Female	0		Right	Moderate	Yes	No	
+I56151	T	Montse		3.1G	I56151.tif	I56151_7.png	12M	2688x2912																Female	0		Left	Moderate	Yes	No	
+I56161	T	Montse		3.9G	I56161.tif	I56161_7.png	15M	3072x2944																Male	NA		Left	Well	Yes	No	
+I56171	T	Montse		2.1G	I56171.tif	I56171_6.png	29M	4352x4544																Female	0		Left	Moderate	Yes	No	
+I57101	T	Montse		1.7G	I57101.tif	I57101_6.png	21M	4096x4928																Male	1		Right	Moderate	Yes	No	
+I57170	T	Montse		2.1G	I57170.tif	I57170_6.png	27M	4864x4352																Male	0		Left	Moderate	Yes	No	
+I58103	T	Montse		1.9G	I58103.tif	I58103_6.png	34M	4520x6568																Female	0		Left	Moderate	No	No	
+I58160	T	Montse		731M	I58160.tif	I58160_5.png	34M	5120x6528																Male	0		Left	Moderate	Yes	No	
+I58180	T	Montse		3.5G	I58180.tif	I58180_7.png	14M	2816x2784																Female	0		Left	Moderate	Yes	No	
+I58190	T	Montse		2.7G	I58190.tif	I58190_6.png	38M	4096x6208																Male	NA		Left	Moderate	Yes	No	
+I59121	T	Montse		2.4G	I59121.tif	I59121_6.png	32M	5376x4544																Male	NA		Left	Moderate	Yes	No	
+I59130	T	Montse		365M	I59130.tif	I59130_5.png	13M	3072x10496																Male	0		Other	Moderate	Unknown	Unknown	
+I59140	T	Montse		3.3G	I59140.tif	I59140_7.png	11M	2688x3552																Female	0		Right	Moderate	Yes	Yes	
+I59145	T	Montse		807M	I59145.tif	I59145_5.png	34M	5440x8160																Male	0		Left	Moderate			
+I59166	T	Montse		2.8G	I59166.tif	I59166_7.png	14M	2392x4016																Female	0		Left	Moderate	No	No	
+I62114	T	Montse		1.9G	I62114.tif	I62114_6.png	38M	5144x4384																Male	0		Left	Moderate	Yes	No	
+I65123	T	Montse		2.1G	I65123.tif	I65123_7.png	10M	2448x3280																Male	0		Left	Moderate	No	No	
+I66107	T	Montse		1.9G	I66107.tif	I66107_6.png	32M	5496x4760																Female	NA		Right	Poor	Yes	No	
+I67160	T	Montse		3.0G	I67160.tif	I67160_6.png	38M	5632x5504																Male	0			Well	Yes	No	
+I68124	T	Montse		1.5G	I68124.tif	I68124_6.png	30M	4160x5648																Male	0		Right	Moderate	Yes	No	
+I69140	T	Montse		780M	I69140.tif	I69140_5.png	33M	4800x7360																	NA						
+I69152	T	Montse		822M	I69152.tif	I69152_6.png	11M	2880x2960																Male	0		Right	Poor			
+I70124	T	Montse		1.1G	I70124.tif	I70124_6.png	14M	3040x2960																Female	0		Left	Moderate	Yes	No	
+I70159	T	Montse		2.4G	I70159.tif	I70159_7.png	12M	2640x2864																Male	0		Left	Moderate	Yes	No	
+I70159-2	T	Montse		2.2G	I70159-2.tif	I70159-2_7.png	11M	2696x2704																Male	0		Left	Moderate	Yes	No	
+I70164	T	Montse		1.9G	I70164.tif	I70164_7.png	12M	2512x2952																Female	0		Right	Well	Yes	No	
+I70194	T	Montse		1.5G	I70194.tif	I70194_6.png	29M	5264x4320																Male	0		Right	Moderate	No	No	
+I71119	T	Montse		2.2G	I71119.tif	I71119_7.png	11M	2456x2824																Male	0		Left	Moderate	Yes	No	
+I71189	T	Montse		268M	I71189.tif	I71189_5.png	12M	5120x4480																Male	0		Left	Moderate			
+I71194	T	Montse		2.2G	I71194.tif	I71194_7.png	13M	2632x3272																Female	0		Right	Moderate	No	No	
+I72144	T	Montse		1.9G	I72144.tif	I72144_7.png	11M	2088x3320																Male	0		Left	Moderate	No	No	
+I73154	T	Montse		2.0G	I73154.tif	I73154_7.png	12M	2328x3240																Male	0		Left	Moderate	Yes	No	
+I73174	T	Montse		2.3G	I73174.tif	I73174_7.png	13M	2640x3256																Male	0		Left	Moderate	No	No	
+I73179	T	Montse		641M	I73179.tif	I73179_5.png	31M	3520x5760																Female	NA		Left	Moderate			
+I74129	T	Montse		3.7G	I74129.tif	I74129_7.png	14M	2944x2880																Male	1		Right	Poor	Yes	No	
+I74139	T	Montse		3.6G	I74139.tif	I74139_7.png	13M	2560x4160																Male	0		Left	Moderate	Yes	Yes	
+I74164	T	Montse		2.9G	I74164.tif	I74164_7.png	15M	2880x3456																Male	0		Other	Moderate	No	No	
+I74174	T	Montse		2.4G	I74174.tif	I74174_7.png	12M	2512x3408																Female	0		Right	Moderate	Unknown	No	
+I74184	T	Montse		2.2G	I74184.tif	I74184_7.png	11M	2024x3072																Female	0		Left	Moderate	No	No	
+I74194	T	Montse		1.3G	I74194.tif	I74194_6.png	25M	3808x4232																Female	0		Left	Moderate	Yes	No	
+I75144	T	Montse		2.9G	I75144.tif	I75144_7.png	17M	2936x2952																Male	0		Left	Moderate			
+I75158	T	Montse		2.2G	I75158.tif	I75158_7.png	11M	2448x2656																Male	0		Left	Moderate	No	No	
+I75174	T	Montse		1.9G	I75174.tif	I75174_6.png	35M	4296x5232																Male	1		Left	Poor	Unknown	Yes	
+I75184	T	Montse		1.9G	I75184.tif	I75184_6.png	35M	5408x6648																Male	0		Left	Moderate	No	No	
+I76114	T	Montse		2.1G	I76114.tif	I76114_7.png	12M	2688x2576																Female	0		Left	Moderate	No	No	
+I76124	T	Montse		2.8G	I76124.tif	I76124_7.png	14M	3056x2720																Male	0		Left	Moderate	Yes	No	
+I76134	T	Montse		3.2G	I76134.tif	I76134_6.png	38M	5376x7040																Female	0		Right	Moderate	No	No	
+I76147	T	Montse		5.0G	I76147.tif	I76147_7.png	17M	2816x6208																Female	1		Left	Moderate	No	No	
+I76149	T	Montse		2.9G	I76149.tif	I76149_6.png	38M	4608x6464																Male	0		Left	Moderate	No	No	
+I77104	T	Montse		1.4G	I77104.tif	I77104_6.png	27M	3560x5312																Male	1		Right	Poor	Yes	No	
+I77113	T	Montse		4.9G	I77113.tif	I77113_7.png	18M	3072x3872																Male	0		Left	Moderate	No	No	
+I77134	T	Montse		1.8G	I77134.tif	I77134_6.png	35M	5264x5648																Female	0		Right	Moderate	Yes	Yes	
+I77149	T	Montse		2.5G	I77149.tif	I77149_6.png	34M	4352x5632																Male	0		Left	Moderate	Yes	No	
+I77159	T	Montse		3.2G	I77159.tif	I77159_7.png	12M	2688x3136																Male	0		Right	Moderate	Yes	Yes	
+I77174	T	Montse		1.3G	I77174.tif	I77174_6.png	25M	4168x4152																Male	0		Right	Moderate	Yes	Yes	
+I77183	T	Montse		2.0G	I77183.tif	I77183_6.png	38M	5152x5896																Female	0		Left	Moderate	Yes	No	
+I78129	T	Montse		3.5G	I78129.tif	I78129_7.png	12M	2816x2912																Male	0		Right	Moderate	Yes	No	
+I78134	T	Montse		4.2G	I78134.tif	I78134_7.png	14M	3072x3552																Male	0		Left	Moderate	No	No	
+I78143	T	Montse		2.4G	I78143.tif	I78143_7.png	13M	3104x4760																Male	0		Left	Moderate	Yes	No	
+I78144	T	Montse		2.5G	I78144.tif	I78144_6.png	35M	5120x4480																Male	0		Right	Moderate	Yes	No	
+I78153	T	Montse		2.1G	I78153.tif	I78153_6.png	29M	3584x4992																Female	0		Left	Moderate	Yes	No	
+I78163	T	Montse		2.6G	I78163.tif	I78163_7.png	13M	2752x3784																Female	0		Left	Moderate	Yes	No	
+I79134	T	Montse		3.4G	I79134.tif	I79134_7.png	13M	2560x2528																Female	NA		Right	Moderate	No	No	
+I79139	T	Montse		1.9G	I79139.tif	I79139_6.png	36M	4296x5480																Male	0		Left	Unknown			
+I79154	T	Montse		2.4G	I79154.tif	I79154_6.png	34M	4096x6592																Male	0		Left	Moderate	No	No	
+I79163	T	Montse		3.7G	I79163.tif	I79163_7.png	13M	3072x3104																Male	0		Left	Moderate	Yes	No	
+I79173	T	Montse		3.3G	I79173.tif	I79173_7.png	13M	2560x3456																Female	0		Left	Moderate			
+I79183	T	Montse		1.1G	I79183.tif	I79183_6.png	14M	3360x3200																Female	0		Left	Moderate	Yes	No	
+I79193	T	Montse		2.7G	I79193.tif	I79193_7.png	11M	2560x3008																Male	0		Left	Moderate	Yes	Yes	
+I80139	T	Montse		759M	I80139.tif	I80139_6.png	13M	3680x3240																Male	0		Left	Moderate	Unknown		
+I80140	T	Montse		3.6G	I80140.tif	I80140_7.png	13M	2560x2944																Female	1		Right	Poor	Yes	Yes	
+I80148	T	Montse		269M	I80148.tif	I80148_5.png	17M	3952x4480																Female	0		Left	Unknown			
+I80156	T	Montse		2.5G	I80156.tif	I80156_6.png	32M	5632x5440																Male	0		Right	Moderate	No	No	
+I80170	T	Montse		87M	I80170.tif	I80170_4.png	18M	5944x4624																Male	1						
+I80183	T	Montse		1.9G	I80183.tif	I80183_6.png	36M	4904x4736																Male	0		Right	Moderate	No	Yes	
+I80194	T	Montse		1.8G	I80194.tif	I80194_6.png	36M	4176x6064																Male	0		Left	Moderate	No	No	
+I80194-2	T	Montse		1.4G	I80194-2.tif	I80194-2_6.png	25M	6312x5648																Male	0		Left	Moderate	No	No	
+I81184	T	Montse		2.2G	I81184.tif	I81184_7.png	13M	2752x3360																Male	0		Left	Moderate	Yes	No	
+I81193	T	Montse		923M	I81193.tif	I81193_6.png	11M	2080x2960																Male	NA		Left	Moderate	No	No	
+I82124	T	Montse		1.4G	I82124.tif	I82124_6.png	31M	5984x4480																Female	0			Moderate	No	No	
+I82130	T	Montse		3.0G	I82130.tif	I82130_7.png	16M	2816x3064																Female	0		Left	Moderate	No	No	
+I82134	T	Montse		1.1G	I82134.tif	I82134_6.png	21M	3200x4400																Female	0						
+I82139	T	Montse		6.5G	I82139.tif	I82139_7.png	23M	3072x7040																Male	NA		Left	Poor	No		
+I82184	T	Montse		1.6G	I82184.tif	I82184_6.png	32M	5496x4768																Female	NA		Right	Moderate			
+I82194	T	Montse		2.0G	I82194.tif	I82194_7.png	11M	2272x3160																Female	0		Right	Moderate	Yes	No	
+I83113	T	Montse		1.2G	I83113.tif	I83113_6.png	13M	3328x3904																Female	0		Left	Well			
+I83140	T	Montse		852M	I83140.tif	I83140_6.png	16M	4664x2736																Male	0		Left	Well			
+I83165	T	Montse		1.7G	I83165.tif	I83165_6.png	33M	5264x4304																Male	0		Left	Moderate	No	No	
+I83183	T	Montse		2.0G	I83183.tif	I83183_6.png	27M	4096x4544																Female	1		Right	Well	Yes	No	
+I84113	T	Montse		576M	I84113.tif	I84113_6.png	11M	3200x2992																Female	0		Right	Well			
+I84115	T	Montse		1.8G	I84115.tif	I84115_6.png	23M	3584x4480																Female	0		Left	Moderate	Unknown	No	
+I84124	T	Montse		1.6G	I84124.tif	I84124_6.png	32M	5624x3928																Female	0		Left	Moderate			
+I84133	T	Montse		2.4G	I84133.tif	I84133_7.png	14M	2816x2840																Female	0		Other	Moderate	Yes	No	
+I84163	T	Montse		2.0G	I84163.tif	I84163_7.png	11M	2328x3184																Female	0		Other	Moderate			
+I84165	T	Montse		1.8G	I84165.tif	I84165_6.png	23M	4864x4032																Female	0		Left	Moderate	No	No	
+I84173	T	Montse		4.0G	I84173.tif	I84173_7.png	14M	2560x3680																Female	0		Left	Unknown			
+I84174	T	Montse		1.4G	I84174.tif	I84174_6.png	28M	4416x4728																Female	0		Right	Moderate	No	No	
+I85114	T	Montse		1.8G	I85114.tif	I85114_6.png	25M	4352x4736																Female	0		Left	Well	No	No	
+I85136	T	Montse		4.2G	I85136.tif	I85136_7.png	14M	3072x3552																Female	0		Left	Moderate	No	No	
+I85144	T	Montse		2.7G	I85144.tif	I85144_6.png	37M	4864x5376																Female	0		Left	Moderate	Yes	No	
+I85153	T	Montse		1.1G	I85153.tif	I85153_6.png	18M	4656x7240																Male	NA		Left	Moderate			
+I85165	T	Montse		2.3G	I85165.tif	I85165_6.png	31M	3328x5696																Male	1		Left	Moderate	No	No	
+I85184	T	Montse		2.8G	I85184.tif	I85184_7.png	11M	2176x3040																Female	0		Right	Poor	No	No	
+I86103	T	Montse		1.7G	I86103.tif	I86103_6.png	30M	4408x3984																Male	0		Right	Poor	Unknown	Yes	
+I86105	T	Montse		2.5G	I86105.tif	I86105_6.png	34M	4096x5440																Female	0		Left	Moderate	Yes	No	
+I86154	T	Montse		2.6G	I86154.tif	I86154_6.png	34M	5120x5056																Male	0		Left	Moderate			
+I86175	T	Montse		3.1G	I86175.tif	I86175_7.png	13M	2688x2816																Male	0		Left	Unknown			
+I86186	T	Montse		3.0G	I86186.tif	I86186_7.png	10M	2688x3008																Male	0		Left	Moderate	Yes	No	
+I87155	T	Montse		1.4G	I87155.tif	I87155_6.png	27M	5136x4120																Male	0		Left	Moderate	No	No	
+I88119	T	Montse		3.4G	I88119.tif	I88119_7.png	12M	2560x2848																Female	1		Right	Moderate	Yes	No	
+I88184	T	Montse		2.3G	I88184.tif	I88184_7.png	11M	2632x3280																Female	0		Right	Moderate	Yes	Yes	
+I89114	T	Montse		2.1G	I89114.tif	I89114_7.png	11M	2576x3112																Female	0		Right	Moderate	Yes	No	
+I89125	T	Montse		4.0G	I89125.tif	I89125_7.png	15M	3072x3360																Female	0		Right	Moderate	Yes	No	
+I89135	T	Montse		982M	I89135.tif	I89135_6.png	19M	4176x3400																Male	0		Right	Moderate	No	No	
+I89144	T	Montse		1.4G	I89144.tif	I89144_6.png	26M	4176x4896																Female	0		Left	Well	No	No	
+I89145	T	Montse		3.4G	I89145.tif	I89145_7.png	21M	3176x3608																Female	0		Right	Moderate	Yes	No	
+I89154	T	Montse		4.1G	I89154.tif	I89154_7.png	15M	2944x2880																Female	0		Left	Moderate	Yes	No	
+I89164	T	Montse		1.9G	I89164.tif	I89164_6.png	36M	4664x5728																Female	0		Right	Moderate	No	No	
+I89165	T	Montse		1.5G	I89165.tif	I89165_6.png	35M	4296x5144																Female	NA		Left	Moderate			
+I90189	T	Montse		2.2G	I90189.tif	I90189_7.png	16M	2816x3824																Female	1		Right	Poor	Yes	No	
+I92131	T	Montse		1.7G	I92131.tif	I92131_6.png	34M	5024x5232																Male	1		Left	Moderate	Yes	No	
+I92143	T	Montse		1.9G	I92143.tif	I92143_6.png	35M	6344x4984																Female	0		Right	Well	Yes	No	
+I92182	T	Montse		1.9G	I92182.tif	I92182_7.png	11M	2328x2936																Female	NA		Left	Moderate	No	No	
+I92192	T	Montse		1.8G	I92192.tif	I92192_6.png	30M	5856x8352																Female	NA		Right	Moderate	No	No	
+I96195	T	Montse		1.4G	I96195.tif	I96195_6.png	29M	4416x4248																Female	1		Right	Moderate	Yes	No	
+I97123	T	Montse		1.5G	I97123.tif	I97123_6.png	28M	5256x3936																Female	NA		Right	Poor	Yes	No	
+I97190	T	Montse		130M	I97190.tif	I97190_4.png	30M	7896x4632																Male	1		Right				
+I98122	T	Montse		2.0G	I98122.tif	I98122_6.png	37M	4768x6400																Female	1		Left				
+I98181	T	Montse		3.0G	I98181.tif	I98181_7.png	14M	2816x3160																	NA						
+I99133	T	Montse		3.8G	I99133.tif	I99133_7.png	20M	3176x4664																Male	NA		Left	Moderate	Yes	No	
+I99153	T	Montse		1.5G	I99153.tif	I99153_6.png	28M	4048x5144																Female	0		Left	Moderate	No	No	
+I00155	TN	grup	ok	2.1G	I00155.tif	I00155_6.png	30M	3584x6528			40	no	ok	si_fuera	no	no	no	no	no	RGB	6	no	no	Male	0	Left	Right	Moderate	Yes	No	
+I00170	TN	Carlos		689M	I00170.tif	I00170_5.png	26M	4608x11136																Male	NA		Left				
+I00171	TN	Carlos		2.8G	I00171.tif	I00171_7.png	12M	2560x2848			no		si		si	si	si	no	RGB					Female	0		Right	Moderate	Yes	No	
+I02891	TN	Carlos		3.4G	I02891.tif	I02891_7.png	11M	3072x2848																Male	0		Right	Moderate	Yes	No	
+I03880	TN	Carlos		2.3G	I03880.tif	I03880_6.png	30M	4864x5312																Female	0		Right	Moderate	Yes	No	
+I05851	TN	Carlos		1.7G	I05851.tif	I05851_6.png	19M	3040x4000																Female	1		Right	Poor	Unknown	Yes	
+I06146	TN	Carlos		961M	I06146.tif	I06146_6.png	14M	3040x2960																Male	0		Left	Moderate	Yes	No	
+I07145	TN	Carlos		1.2G	I07145.tif	I07145_6.png	13M	2816x11136																Female	0		Left	Moderate			
+I07179	TN	Carlos		4.2G	I07179.tif	I07179_7.png	14M	2432x4000																Female	0		Left	Moderate	Yes	No	
+I08102	TN	Carlos		1.8G	I08102.tif	I08102_6.png	25M	4096x4416			no		no		no	no	no	no	RGB		4			Female	0		Right	Moderate	No	No	
+I08109	TN	Carlos		4.1G	I08109.tif	I08109_7.png	15M	3072x3264																Female	0		Left	Well	No	No	
+I09192	TN	Carlos		1.3G	I09192.tif	I09192_6.png	16M	3584x3712																Male	NA		Left	Moderate			
+I10138	TN	Carlos		1.5G	I10138.tif	I10138_6.png	18M	3360x4000																Male	0		Right	Moderate	No	No	
+I10165	TN	Carlos		2.6G	I10165.tif	I10165_7.png	11M	2944x3456																Male	0		Right	Moderate	No	No	
+I10189	TN	Carlos		1.5G	I10189.tif	I10189_6.png	19M	3360x4080																Male	0		Left	Moderate	Yes	No	
+I11195	TN	Carlos		996M	I11195.tif	I11195_6.png	12M	2400x4000																Male	0		Left	Moderate	Yes	No	
+I11197	TN	Carlos		1.2G	I11197.tif	I11197_6.png	13M	2400x3840			no		si		si	no	no	no	RGB		4			Female	0		Right	Well	No	No	
+I12181	TN	Carlos		1.2G	I12181.tif	I12181_6.png	13M	2560x4160																Female	0			Poor	Yes	Yes	
+I13122	TN	Carlos		4.0G	I13122.tif	I13122_7.png	14M	2560x3680																Female	0		Right	Moderate	Yes	No	
+I13194	TN	Carlos		1.1G	I13194.tif	I13194_6.png	14M	3200x3440																Male	0		Right	Moderate	No	No	
+I13198	TN	Carlos		2.2G	I13198.tif	I13198_6.png	27M	5120x4800																Female	0		Left				
+I14118	TN	Carlos		1.5G	I14118.tif	I14118_6.png	17M	3040x5520																Female	1		Left	Moderate	Yes	No	
+I14129	TN	Carlos		3.9G	I14129.tif	I14129_7.png	13M	2816x3168																Male	0		Left	Moderate	Yes	No	
+I14159	TN	Carlos		2.7G	I14159.tif	I14159_6.png	31M	4608x5824																Male	0		Right	Moderate	Yes	No	
+I14169	TN	Carlos		2.7G	I14169.tif	I14169_6.png	32M	4352x5568																Female	0		Right	Moderate	No	No	
+I15154	TN	Carlos		1.3G	I15154.tif	I15154_6.png	15M	2720x4160																Male	0		Left	Moderate	Yes	Yes	
+I15180	TN	Carlos		2.9G	I15180.tif	I15180_6.png	33M	4864x6336																Male	0		Left	Well	No	No	
+I16169	TN	Carlos		1.4G	I16169.tif	I16169_6.png	13M	3840x4672																Female	0		Left	Moderate	Yes	No	
+I16179	TN	Carlos		2.6G	I16179.tif	I16179_6.png	32M	4608x5568																Female	0		Right	Moderate	No	No	
+I16189	TN	Carlos		3.9G	I16189.tif	I16189_7.png	13M	2432x3392																Female	0		Right	Moderate	Yes	No	
+I17108	TN	Carlos		976M	I17108.tif	I17108_6.png	11M	2880x2720																Male	0		Left	Moderate	No	No	
+I17118	TN	Carlos		1.5G	I17118.tif	I17118_6.png	17M	3200x5200																Male	0		Left	Moderate	No	No	
+I17124	TN	Carlos		1.1G	I17124.tif	I17124_6.png	12M	2720x3600																Female	0		Left	Well	Yes		
+I17131	TN	Carlos		1.1G	I17131.tif	I17131_6.png	14M	4352x2752																Female	0		Right	Moderate	Yes	No	
+I17138	TN	Carlos		1.4G	I17138.tif	I17138_6.png	16M	3040x2960																Female	NA		Left	Moderate	No	No	
+I17158	TN	Carlos		1.1G	I17158.tif	I17158_6.png	12M	2560x4080																Male	0		Left	Moderate	Yes	No	
+I17168	TN	Carlos		1.1G	I17168.tif	I17168_6.png	12M	2560x3360																Male	0		Right	Moderate	No	No	
+I17174	TN	Carlos		826M	I17174.tif	I17174_5.png	36M	5440x4960																Male	0		Right	Moderate	No	No	
+I17178	TN	Carlos		906M	I17178.tif	I17178_6.png	10M	2080x3440																Male	0		Left	Moderate	No	No	
+I18156	TN	Carlos		1.3G	I18156.tif	I18156_6.png	16M	3360x4080																Female	0		Left	Moderate	No	No	
+I18174	TN	Carlos		1.5G	I18174.tif	I18174_6.png	17M	3040x4240																Female	0		Left	Moderate	No	No	
+I19127	TN	Carlos		1.9G	I19127.tif	I19127_6.png	27M	4864x3968																Male	1		Left	Moderate	Yes	No	
+I20130	TN	Carlos		2.7G	I20130.tif	I20130_6.png	31M	5632x5312																Male	NA		Left	Moderate	No	No	
+I20140	TN	Carlos		3.3G	I20140.tif	I20140_7.png	10M	2688x3552																Male	0		Left	Moderate	No	No	
+I20150	TN	Carlos		2.2G	I20150.tif	I20150_6.png	27M	3840x4864																Female	0		Right	Moderate	Yes	No	
+I20161	TN	Carlos		492M	I20161.tif	I20161_5.png	18M	7168x3712																Female	1		Left	Poor			
+I20190	TN	Carlos		2.9G	I20190.tif	I20190_6.png	31M	4608x6272																Male	0		Left	Moderate	No	No	
+I21110	TN	Carlos		2.6G	I21110.tif	I21110_6.png	32M	3584x6080																Male	NA		Left	Moderate	No	No	
+I21198	TN	Carlos		2.8G	I21198.tif	I21198_6.png	36M	5120x4032																Male	NA		Left	Unknown	Unknown	Unknown	
+I23182	TN	Carlos		794M	I23182.tif	I23182_5.png	30M	4480x6720																Male	1		Left	Moderate	No	No	
+I24156	TN	Carlos		2.6G	I24156.tif	I24156_6.png	31M	5376x5824																Female	1		Left	Moderate	Unknown	Unknown	
+I26125	TN	Carlos		3.2G	I26125.tif	I26125_6.png	38M	4864x7360																Male	1		Left	Moderate	No	No	
+I28150	TN	Carlos		2.5G	I28150.tif	I28150_6.png	30M	5632x4864																Male	0		Left	Well	No	No	
+I30125	TN	Carlos		3.1G	I30125.tif	I30125_7.png	12M	2560x2848																Female	0		Left	Moderate	Yes	No	
+I30184	TN	Carlos		876M	I30184.tif	I30184_5.png	37M	4800x10880																Male	1		Left	Moderate	Yes	No	
+I31156	TN	Carlos		1.1G	I31156.tif	I31156_6.png	12M	4352x3584			no		no		si	no	no	no	RGB					Female	1						
+I31166	TN	Carlos		2.4G	I31166.tif	I31166_6.png	32M	4864x4864																Female	1		Left	Well	No	No	
+I31194	TN	Carlos		593M	I31194.tif	I31194_5.png	23M	4160x5120																Male	NA		Left	Well			
+I32186	TN	Carlos		2.6G	I32186.tif	I32186_6.png	36M	4096x5824																Female	1		Right	Moderate	No	No	
+I33128	TN	Carlos		2.1G	I33128.tif	I33128_6.png	27M	4864x4096																Female	1		Left	Moderate	No	No	
+I33180	TN	Carlos		4.1G	I33180.tif	I33180_7.png	13M	2944x4544																Male	0			Moderate	Unknown	Unknown	
+I35193	TN	Carlos		1.2G	I35193.tif	I35193_6.png	14M	3040x2880																Female	0		Left	Well		No	
+I36110	TN	Carlos		2.0G	I36110.tif	I36110_6.png	27M	5120x4160																Female	0			Moderate			
+I37113	TN	Carlos		965M	I37113.tif	I37113_6.png	11M	3328x3392																Male	0		Right	Moderate	Unknown	Unknown	
+I37152	TN	Carlos		2.0G	I37152.tif	I37152_6.png	25M	4352x4928																Female	1		Other	Poor	Yes	No	
+I38171	TN	Carlos		1.3G	I38171.tif	I38171_6.png	15M	3040x3920																Male	0		Left	Poor		No	
+I38176	TN	Carlos		843M	I38176.tif	I38176_5.png	37M	5632x7040																Male	NA		Other	Moderate	Unknown	Unknown	
+I38185	TN	Carlos		929M	I38185.tif	I38185_5.png	32M	5120x10752																Female	NA		Right	Moderate			
+I38186	TN	Carlos		2.0G	I38186.tif	I38186_6.png	22M	4096x6208																Male	0		Other	Moderate	Unknown	Unknown	
+I40100	TN	Carlos		3.1G	I40100.tif	I40100_7.png	10M	2304x3232																Male	0		Left	Well	No	No	
+I40107	TN	Carlos		776M	I40107.tif	I40107_6.png	12M	2704x4128																Male	0		Right	Moderate		No	
+I40153	TN	Carlos		3.1G	I40153.tif	I40153_7.png	12M	2816x2880																Female	1		Left	Moderate	Unknown	No	
+I40155	TN	Carlos		666M	I40155.tif	I40155_6.png	12M	2904x2816																Female	1		Right	Well		No	
+I40165	TN	Carlos		224M	I40165.tif	I40165_5.png	14M	3744x3616																Female	0		Left	Moderate		No	
+I40175	TN	Carlos		3.1G	I40175.tif	I40175_7.png	11M	2816x3104																	NA						
+I40176	TN	Carlos		564M	I40176.tif	I40176_5.png	38M	6432x5456																Female	0		Left	Moderate		No	
+I40178	TN	Carlos		904M	I40178.tif	I40178_6.png	10M	3040x3040																Female	0		Left	Moderate		No	
+I40179	TN	Carlos		3.0G	I40179.tif	I40179_7.png	10M	2560x2656																	NA						
+I40187	TN	Carlos		961M	I40187.tif	I40187_5.png	30M	5632x12288																Male	NA		Left	Moderate			
+I40188	TN	Carlos		650M	I40188.tif	I40188_5.png	27M	4160x6240																Female	NA		Other	Moderate		Unknown	
+I41104	TN	Carlos		2.0G	I41104.tif	I41104_6.png	26M	3840x6016																Female	0		Right	Well	Yes	No	
+I41124	TN	Carlos		750M	I41124.tif	I41124_6.png	13M	2696x3472																Female	0		Right	Moderate		Yes	
+I41127	TN	Carlos		3.2G	I41127.tif	I41127_7.png	12M	2816x2784																Female	1		Right	Poor	Yes	Yes	
+I41137	TN	Carlos		797M	I41137.tif	I41137_6.png	13M	2600x3760																Female	0		Right	Moderate		No	
+I41144	TN	Carlos		403M	I41144.tif	I41144_5.png	27M	3952x5496																Female	0		Left	Moderate		No	
+I41147	TN	Carlos		383M	I41147.tif	I41147_5.png	23M	3744x6360																Female	1		Right	Poor		Yes	
+I41149	TN	Carlos		2.2G	I41149.tif	I41149_6.png	31M	4608x4672																Female	0		Other	Moderate	No	No	
+I41154	TN	Carlos		3.5G	I41154.tif	I41154_7.png	12M	2816x3392																Male	0		Right	Moderate		No	
+I41167	TN	Carlos		602M	I41167.tif	I41167_6.png	11M	2808x2968																Female	0		Right	Moderate		No	
+I41169	TN	Carlos		3.3G	I41169.tif	I41169_7.png	11M	2816x3008																Male	0		Left	Moderate	No	No	
+I41189	TN	Carlos		2.7G	I41189.tif	I41189_6.png	36M	4864x5824																Male	1		Right	Poor	Yes	No	
+I41199	TN	Carlos		2.3G	I41199.tif	I41199_6.png	30M	4352x6080																Female	1		Left	Moderate	No	No	
+I42119	TN	Carlos		2.5G	I42119.tif	I42119_6.png	34M	4352x5248																Male	0		Left	Moderate	Yes	No	
+I42125	TN	Carlos		1.4G	I42125.tif	I42125_6.png	18M	3840x3008																Female	NA		Left	Moderate	Unknown	No	
+I42129	TN	Carlos		1.4G	I42129.tif	I42129_6.png	17M	3840x3840																Female	NA			Moderate	Yes	No	
+I42145	TN	Carlos		483M	I42145.tif	I42145_5.png	33M	4368x5928																Female	0		Left	Moderate		No	
+I42165	TN	Carlos		510M	I42165.tif	I42165_6.png	11M	2800x3248																Female	0		Right	Well		No	
+I42181	TN	Carlos		2.4G	I42181.tif	I42181_6.png	32M	4864x4992																Male	NA		Left	Moderate	No	No	
+I42185	TN	Carlos		584M	I42185.tif	I42185_6.png	10M	2392x3256																Male	0		Right	Moderate		No	
+I42189	TN	Carlos		2.9G	I42189.tif	I42189_6.png	39M	4864x6272																Male	0		Left	Moderate	Yes	No	
+I43104	TN	Carlos		2.9G	I43104.tif	I43104_7.png	11M	2688x3296																Male	1		Left	Moderate	Yes	No	
+I43125	TN	Carlos		717M	I43125.tif	I43125_6.png	12M	3008x3040																Male	0		Right	Moderate		No	
+I43128	TN	Carlos		866M	I43128.tif	I43128_6.png	11M	2880x3360																Female	0		Left	Well			
+I43138	TN	Carlos		533M	I43138.tif	I43138_5.png	20M	3840x7040																Female	NA		Left	Well			
+I43139	TN	Carlos		2.7G	I43139.tif	I43139_6.png	37M	5120x5248																Male	1		Left	Moderate	No	Unknown	
+I43145	TN	Carlos		597M	I43145.tif	I43145_6.png	12M	3112x2312																Female	0		Other	Moderate		Yes	
+I43148	TN	Carlos		1.1G	I43148.tif	I43148_6.png	13M	2720x3040																Male	1		Left	Moderate		No	
+I43149	TN	Carlos		2.1G	I43149.tif	I43149_6.png	29M	4352x4864																Male	0		Left	Moderate	No	No	
+I43164	TN	Carlos		490M	I43164.tif	I43164_5.png	30M	4160x7376																Female	0		Left	Moderate		No	
+I43178	TN	Carlos		778M	I43178.tif	I43178_5.png	34M	5440x5920																Male	0		Left	Well		No	
+I43182	TN	Carlos		3.2G	I43182.tif	I43182_7.png	13M	2688x3264																Female	0		Left	Moderate	No	No	
+I43188	TN	Carlos		719M	I43188.tif	I43188_5.png	32M	6080x4960																Male	0		Left	Moderate		No	
+I44107	TN	Carlos		323M	I44107.tif	I44107_5.png	21M	3744x5056																Male	0		Right	Moderate		No	
+I44119	TN	Carlos		1.6G	I44119.tif	I44119_6.png	22M	4096x4672																Male	0		Right	Moderate	No	No	
+I44128	TN	Carlos		3.7G	I44128.tif	I44128_7.png	14M	2816x2784																Male	0		Left	Moderate	Yes		
+I44135	TN	Carlos		3.0G	I44135.tif	I44135_7.png	11M	2944x2144																	NA						
+I44137	TN	Carlos		594M	I44137.tif	I44137_5.png	38M	4160x8104																Female	0		Right	Well		No	
+I44147	TN	Carlos		502M	I44147.tif	I44147_5.png	32M	5400x5640																Male	0		Other	Moderate		No	
+I44148	TN	Carlos		1.1G	I44148.tif	I44148_6.png	13M	2560x4320																Male	0		Left	Moderate		No	
+I44158	TN	Carlos		2.4G	I44158.tif	I44158_6.png	33M	4096x5568																Male	0		Left	Moderate		No	
+I44168	TN	Carlos		806M	I44168.tif	I44168_5.png	37M	5120x4800																Female	0			Moderate		No	
+I44169	TN	Carlos		2.2G	I44169.tif	I44169_6.png	30M	5632x4288																Male	0		Right	Moderate	No	No	
+I44186	TN	Malena		558M	I44186.tif	I44186_5.png	33M	4160x7520																Male	1		Right	Poor		Yes	
+I44198	TN	Malena		809M	I44198.tif	I44198_5.png	35M	4800x6720																Female	1		Right	Well		No	
+I44199	TN	Malena		1.9G	I44199.tif	I44199_6.png	26M	3840x5184																Male	0		Left	Moderate	No	No	
+I45118	TN	Malena		704M	I45118.tif	I45118_5.png	32M	4800x5920																Male	0		Right	Moderate		No	
+I45126	TN	Malena		666M	I45126.tif	I45126_6.png	14M	2912x3392																Female	1						
+I45128	TN	Malena		831M	I45128.tif	I45128_6.png	10M	2720x2560																Female	0		Right	Moderate		No	
+I45133	TN	Malena		2.2G	I45133.tif	I45133_6.png	25M	4096x7040																Male	NA		Right	Moderate	Unknown	No	
+I45136	TN	Malena		403M	I45136.tif	I45136_5.png	25M	3744x6216																Male	0		Left	Moderate		No	
+I45137	TN	Malena		504M	I45137.tif	I45137_5.png	32M	4368x5208																Female	0		Right	Moderate		No	
+I45143	TN	Malena		809M	I45143.tif	I45143_5.png	38M	6144x6016																Male	1		Left	Moderate	Unknown		
+I45144	TN	Malena		1.2G	I45144.tif	I45144_6.png	14M	2816x5312																Female	NA						
+I45156	TN	Malena		605M	I45156.tif	I45156_6.png	12M	2600x2968																Female	0		Left	Moderate		No	
+I45158	TN	Malena		896M	I45158.tif	I45158_6.png	11M	2720x3360																Male	0		Left	Moderate		No	
+I45165	TN	Malena		361M	I45165.tif	I45165_5.png	25M	3120x6800																Male	0		Left	Moderate		No	
+I45166	TN	Malena		2.1G	I45166.tif	I45166_6.png	27M	4864x4352																Male	0		Left	Moderate	Unknown	Unknown	
+I45167	TN	Malena		601M	I45167.tif	I45167_6.png	10M	2808x3464																Male	0		Right	Moderate		No	
+I45175	TN	Malena		624M	I45175.tif	I45175_6.png	12M	2392x3688																Female	0		Left	Moderate		No	
+I45186	TN	Malena		754M	I45186.tif	I45186_6.png	13M	2808x3832																Female	1		Right	Well		No	
+I46109	TN	Malena		2.5G	I46109.tif	I46109_6.png	34M	4864x5888																Male	0		Left	Moderate	No	No	
+I46118	TN	Malena		1.3G	I46118.tif	I46118_6.png	14M	3040x3520																Male	NA		Right	Moderate		No	
+I46124	TN	Malena		373M	I46124.tif	I46124_5.png	24M	4160x5928																Male	0		Right	Moderate		No	
+I46127	TN	Malena		1.5G	I46127.tif	I46127_6.png	13M	2816x8576																Male	1		Left	Moderate	Unknown	Unknown	
+I46129	TN	Malena		2.8G	I46129.tif	I46129_6.png	38M	5888x4672																Male	0		Other	Poor	Yes	No	
+I46137	TN	Malena		2.0G	I46137.tif	I46137_6.png	24M	4352x6336																Male	NA		Right	Moderate	Unknown	Unknown	
+I46138	TN	Malena		3.7G	I46138.tif	I46138_7.png	13M	2560x3104																Male	0		Left	Moderate	No	No	
+I46147	TN	Malena		575M	I46147.tif	I46147_6.png	12M	2496x2968																Female	0		Left	Moderate		No	
+I46179	TN	Malena		2.6G	I46179.tif	I46179_6.png	33M	5120x5568																Male	0		Left	Moderate	Yes	No	
+I46185	TN	Malena		612M	I46185.tif	I46185_6.png	12M	2808x3040																	NA						
+I46199	TN	Malena		2.6G	I46199.tif	I46199_6.png	38M	4864x5248																Male	0		Right	Moderate	No	No	
+I47109	TN	Malena		2.8G	I47109.tif	I47109_6.png	38M	5632x7232																Female	1		Left	Moderate	No	No	
+I47119	TN	Malena		1.2G	I47119.tif	I47119_6.png	15M	3840x3328																Female	0		Left	Well	No	No	
+I47129	TN	Malena		2.3G	I47129.tif	I47129_6.png	30M	4608x5312																	NA						
+I47134	TN	Malena		272M	I47134.tif	I47134_5.png	19M	3328x4912																Male	0		Left	Moderate		Unknown	
+I47135	TN	Malena		464M	I47135.tif	I47135_5.png	32M	3328x6512																Male	0		Right	Moderate		No	
+I47155	TN	Malena		522M	I47155.tif	I47155_5.png	32M	5400x6648																Male	0		Left	Poor		No	
+I47167	TN	Malena		605M	I47167.tif	I47167_6.png	12M	2288x3256																Female	0		Left	Moderate		No	
+I47178	TN	Malena		636M	I47178.tif	I47178_5.png	29M	3520x5600																Female	0		Left	Moderate		No	
+I47187	TN	Malena		468M	I47187.tif	I47187_5.png	29M	3744x5928																Female	0		Left	Moderate		No	
+I47188	TN	Malena		1.1G	I47188.tif	I47188_6.png	12M	2400x3840																Male	0		Left	Moderate		No	
+I48126	TN	Malena		499M	I48126.tif	I48126_5.png	33M	5400x6216																Male	0		Left	Well		No	
+I48136	TN	Malena		449M	I48136.tif	I48136_5.png	34M	5808x4912																Female	0		Left	Moderate		No	
+I48148	TN	Malena		567M	I48148.tif	I48148_5.png	25M	4800x4160																Female	0		Left	Moderate			
+I48164	TN	Malena		524M	I48164.tif	I48164_5.png	35M	5400x5496																Male	1		Right	Moderate		No	
+I48178	TN	Malena		556M	I48178.tif	I48178_5.png	24M	3840x6240																Female	1		Right	Moderate		No	
+I48187	TN	Malena		1.3G	I48187.tif	I48187_6.png	18M	2560x4640																Female	0		Left	Well			
+I48195	TN	Malena		434M	I48195.tif	I48195_5.png	30M	5608x3752																Female	0		Left	Well		No	
+I49102	TN	Malena		2.8G	I49102.tif	I49102_7.png	11M	2560x2912																Male	NA		Left	Moderate	No	No	
+I49104	TN	Malena		490M	I49104.tif	I49104_5.png	37M	5176x6504																Male	1		Right	Moderate		No	
+I49106	TN	Malena		573M	I49106.tif	I49106_5.png	39M	4776x6072																Female	1		Right	Moderate		No	
+I49109	TN	Malena		2.0G	I49109.tif	I49109_6.png	26M	4864x4736																Female	0		Right	Moderate	Yes	No	
+I49127	TN	Malena		1007M	I49127.tif	I49127_6.png	11M	2880x3920																Female	0		Left	Moderate		No	
+I49129	TN	Malena		2.7G	I49129.tif	I49129_6.png	38M	4864x5888																Male	0		Right	Moderate	Yes	No	
+I49135	TN	Malena		2.6G	I49135.tif	I49135_6.png	34M	5888x4480																Female	0		Left	Moderate	Unknown	No	
+I49147	TN	Malena		1.1G	I49147.tif	I49147_6.png	12M	2560x4000																Female	0		Left	Moderate		No	
+I49160	TN	Malena		2.3G	I49160.tif	I49160_6.png	33M	4096x6464																Female	0		Left	Moderate	Yes	No	
+I49169	TN	Malena		2.9G	I49169.tif	I49169_6.png	38M	5632x5504																Male	0		Right	Moderate	No	No	
+I49176	TN	Malena		872M	I49176.tif	I49176_6.png	14M	2800x3832																Female	0		Right	Moderate		Yes	
+I49178	TN	Malena		3.6G	I49178.tif	I49178_7.png	13M	3200x2912																Male	0		Left	Moderate	No	Yes	
+I49183	TN	Malena		602M	I49183.tif	I49183_5.png	39M	4984x6360																Female	0		Right	Well		No	
+I49184	TN	Malena		813M	I49184.tif	I49184_6.png	13M	3120x3544																Male	0		Other	Moderate		No	
+I50121	TN	Malena		3.8G	I50121.tif	I50121_7.png	14M	2688x3488																Female	0		Right	Moderate	No	No	
+I51110	TN	Malena		2.0G	I51110.tif	I51110_6.png	24M	4864x4608																Male	0		Left	Moderate	No	No	
+I51131	TN	Malena		4.0G	I51131.tif	I51131_7.png	14M	2816x3744																Female	0		Left	Poor	Yes	No	
+I51140	TN	Malena		3.0G	I51140.tif	I51140_7.png	11M	2688x2688																Male	0		Left	Well	No	No	
+I51150	TN	Malena		2.8G	I51150.tif	I51150_6.png	36M	4096x5696																Female	0		Left	Moderate	No	No	
+I51190	TN	Malena		3.9G	I51190.tif	I51190_7.png	13M	2688x3744																Male	0		Right	Moderate	No	No	
+I52100	TN	Malena		3.2G	I52100.tif	I52100_7.png	11M	2432x3744																Female	0		Other	Moderate	Yes	No	
+I52110	TN	Malena		3.0G	I52110.tif	I52110_7.png	11M	2688x2464																Male	0		Left	Well	Yes	No	
+I52130	TN	Malena		1.9G	I52130.tif	I52130_6.png	25M	4096x4672																Female	1		Right	Poor	Yes		
+I52140	TN	Malena		2.9G	I52140.tif	I52140_7.png	11M	2944x2528																Male	0		Left	Moderate	Yes	Yes	
+I52180	TN	Malena		3.3G	I52180.tif	I52180_7.png	12M	2944x2752																Male	0		Left	Moderate	Yes	No	
+I52181	TN	Malena		3.1G	I52181.tif	I52181_7.png	12M	2688x2464																Female	0		Left	Moderate	No	No	
+I53130	TN	Malena		3.7G	I53130.tif	I53130_7.png	13M	2560x3008																Male	0		Right	Moderate	Yes	No	
+I53160	TN	Malena		3.5G	I53160.tif	I53160_7.png	12M	2560x3232																Female	0		Left	Moderate	Yes	No	
+I53171	TN	Malena		2.5G	I53171.tif	I53171_6.png	33M	4096x6784																Female	0		Left	Moderate	Yes	No	
+I53180	TN	Malena		3.3G	I53180.tif	I53180_7.png	12M	2688x2944																Female	0		Left	Moderate	Yes	No	
+I53190	TN	Malena		2.4G	I53190.tif	I53190_6.png	33M	5376x4288																Male	0		Left	Moderate	No	No	
+I54130	TN	Malena		2.0G	I54130.tif	I54130_6.png	26M	4096x4416																Male	0		Left	Moderate	Unknown	Unknown	
+I54141	TN	Malena		2.7G	I54141.tif	I54141_7.png	11M	2432x2944																Male	0		Left	Moderate	No	No	
+I55111	TN	Malena		2.8G	I55111.tif	I55111_6.png	35M	5376x6336																Female	1		Left	Unknown	No	Unknown	
+I55141	TN	Malena		2.4G	I55141.tif	I55141_6.png	28M	5632x5376																Female	NA		Left	Moderate	No		
+I55160	TN	Malena		3.6G	I55160.tif	I55160_7.png	12M	2944x2656																	NA						
+I55190	TN	Malena		2.6G	I55190.tif	I55190_6.png	38M	5888x4416																Female	1		Right	Moderate	No	Yes	
+I56110	TN	Malena		3.3G	I56110.tif	I56110_6.png	38M	5376x6912																Male	NA		Left	Moderate	No	No	
+I56190	TN	Malena		2.0G	I56190.tif	I56190_6.png	25M	5120x4800																Male	0		Right	Moderate	No	No	
+I57110	TN	Malena		5.2G	I57110.tif	I57110_7.png	19M	2944x4192																Male	0		Right	Moderate	No	No	
+I57130	TN	Malena		3.3G	I57130.tif	I57130_7.png	12M	2944x2784																Male	1		Left	Moderate	No	No	
+I57141	TN	Malena		2.6G	I57141.tif	I57141_6.png	36M	5376x4736																Female	0		Left	Moderate	No	No	
+I57190	TN	Malena		2.6G	I57190.tif	I57190_6.png	37M	5120x7360																Female	0		Left	Moderate	No	No	
+I58121	TN	Malena		4.4G	I58121.tif	I58121_7.png	16M	2816x3840																Male	0		Other	Moderate	No	No	
+I58130	TN	Malena		3.5G	I58130.tif	I58130_7.png	12M	3072x2784																Male	0		Left	Poor	No	Yes	
+I58131	TN	Malena		714M	I58131.tif	I58131_5.png	28M	5632x10880																Male	NA		Left	Moderate	Unknown	Unknown	
+I58141	TN	Malena		1.9G	I58141.tif	I58141_6.png	24M	4352x3904																Male	0		Left	Moderate	No	No	
+I58171	TN	Malena		2.0G	I58171.tif	I58171_6.png	28M	4352x4672																Female	0		Right	Moderate	No	No	
+I58181	TN	Malena		1.7G	I58181.tif	I58181_6.png	23M	3584x4160																Male	0		Left	Moderate	No	No	
+I59110	TN	Malena		2.8G	I59110.tif	I59110_7.png	11M	2560x2720																Female	0		Right	Poor	Yes	No	
+I59111	TN	Malena		2.5G	I59111.tif	I59111_6.png	34M	5632x4736																Female	0						
+I59120	TN	Malena		2.4G	I59120.tif	I59120_6.png	34M	3584x6784																Female	NA			Moderate	No	No	
+I59150	TN	Malena		2.1G	I59150.tif	I59150_6.png	27M	4608x6784																Male	0		Left	Moderate	No	No	
+I59160	TN	Malena		1.8G	I59160.tif	I59160_6.png	21M	3584x5824																Female	NA		Left	Moderate	No	No	
+I59180	TN	Malena		2.9G	I59180.tif	I59180_7.png	12M	3072x3488																Male	0		Left	Moderate	Yes	Yes	
+I60111	TN	Malena		3.2G	I60111.tif	I60111_7.png	12M	2560x3360																Male	0		Right	Moderate	No	No	
+I60114	TN	Malena		3.9G	I60114.tif	I60114_7.png	13M	2432x4064																Female	0		Right	Moderate	No	No	
+I60142	TN	Malena		2.4G	I60142.tif	I60142_6.png	35M	5632x4928																Male	0						
+I60143	TN	Malena		2.1G	I60143.tif	I60143_6.png	31M	4096x6720																Female	0		Left	Moderate	No	No	
+I60172	TN	Malena		2.2G	I60172.tif	I60172_6.png	31M	5376x4800																Female	0			Poor	No	Yes	
+I60180	TN	Malena		3.3G	I60180.tif	I60180_7.png	11M	2432x3232																Female	1		Left	Moderate	No	No	
+I60181	TN	Malena		2.9G	I60181.tif	I60181_7.png	10M	2176x3136																Male	0		Right	Moderate	No	No	
+I60182	TN	Malena		4.2G	I60182.tif	I60182_7.png	15M	3072x4224																Male	1		Left	Moderate	No	No	
+I60192	TN	Malena		2.6G	I60192.tif	I60192_6.png	30M	5632x5504																Male	0		Left	Moderate	No	No	
+I61101	TN	Malena		3.3G	I61101.tif	I61101_7.png	12M	2816x2944																Female	0		Left	Moderate	No	No	
+I61103	TN	Malena		2.5G	I61103.tif	I61103_6.png	33M	4864x4928																Male	0		Left	Moderate	No	No	
+I61111	TN	Malena		3.1G	I61111.tif	I61111_7.png	11M	2560x2976																Male	0		Right	Moderate	No	No	
+I61113	TN	Malena		3.1G	I61113.tif	I61113_7.png	12M	2944x3488																Female	0		Right	Moderate	Yes	No	
+I61123	TN	Malena		3.0G	I61123.tif	I61123_7.png	10M	2688x3072																Male	0		Left	Moderate	No	No	
+I61134	TN	Malena		2.6G	I61134.tif	I61134_6.png	35M	4864x3840																Female	NA						
+I61142	TN	Malena		2.9G	I61142.tif	I61142_6.png	36M	5888x5568																Female	0		Other	Moderate	No	No	
+I61143	TN	Malena		2.1G	I61143.tif	I61143_6.png	31M	5632x5568																Male	0		Left	Moderate	No	No	
+I61152	TN	Malena		2.2G	I61152.tif	I61152_6.png	24M	5120x6976																Male	0		Left	Moderate	No	No	
+I61160	TN	Malena		700M	I61160.tif	I61160_5.png	32M	6400x6240																	NA						
+I61173	TN	Montse		2.7G	I61173.tif	I61173_6.png	36M	5120x6336																Female	0		Left	Well	Yes	No	
+I61191	TN	Montse		1.2G	I61191.tif	I61191_6.png	16M	3584x4672																Female	1		Right	Moderate	No	No	
+I62100	TN	Montse		2.1G	I62100.tif	I62100_6.png	32M	5888x4992																Male	0		Left	Moderate	No	No	
+I62103	TN	Montse		2.3G	I62103.tif	I62103_6.png	35M	5376x5120																Female	0		Left	Moderate	Yes	No	
+I62113	TN	Montse		2.5G	I62113.tif	I62113_6.png	35M	4352x6464																Female	0		Right	Moderate	No	No	
+I62123	TN	Montse		2.2G	I62123.tif	I62123_6.png	31M	4352x6336																Female	0		Left	Moderate	Yes	No	
+I62124	TN	Montse		4.2G	I62124.tif	I62124_7.png	14M	2944x3808																Female	0		Left	Moderate	No	No	
+I62132	TN	Montse		3.3G	I62132.tif	I62132_7.png	14M	2688x3872																Male	1		Right	Moderate	Yes	No	
+I62141	TN	Montse		2.1G	I62141.tif	I62141_6.png	26M	3840x5440																Male	0		Left	Moderate	No	No	
+I62143	TN	Montse		3.0G	I62143.tif	I62143_6.png	38M	4864x6784																Male	0		Left	Moderate	No	No	
+I62144	TN	Montse		2.5G	I62144.tif	I62144_6.png	33M	4352x5632																Female	0			Well	No	No	
+I62152	TN	Montse		2.1G	I62152.tif	I62152_6.png	26M	4864x5824																Male	0		Left	Moderate	No	No	
+I62161	TN	Montse		3.2G	I62161.tif	I62161_7.png	11M	2432x3616																Male	1		Left	Poor	No	No	
+I62181	TN	Montse		1.7G	I62181.tif	I62181_6.png	22M	3584x4160																Male	0		Left	Poor	No		
+I63112	TN	Montse		3.0G	I63112.tif	I63112_6.png	38M	5632x5888																Female	0		Right	Moderate	No	No	
+I63130	TN	Montse		2.9G	I63130.tif	I63130_6.png	36M	4608x6528																Female	0		Left	Moderate	Yes	No	
+I63132	TN	Montse		2.9G	I63132.tif	I63132_6.png	38M	5888x4736																Male	NA		Right	Well	No	No	
+I63136	TN	Montse		1.1G	I63136.tif	I63136_6.png	14M	3200x3600																Male	0		Right	Well			
+I63142	TN	Montse		1.9G	I63142.tif	I63142_6.png	24M	4352x4096																Male	0		Left	Moderate	No	No	
+I63152	TN	Montse		3.6G	I63152.tif	I63152_7.png	13M	2432x4128																Male	0		Right	Moderate	No	No	
+I63162	TN	Montse		1.6G	I63162.tif	I63162_6.png	24M	3840x4544																Male	0		Left	Moderate	No	No	
+I63172	TN	Montse		3.6G	I63172.tif	I63172_7.png	13M	2560x3392																Female	0		Right	Moderate	No	No	
+I63173	TN	Montse		2.8G	I63173.tif	I63173_6.png	36M	5120x6400																Female	0		Left	Moderate	No	No	
+I63181	TN	Montse		3.3G	I63181.tif	I63181_7.png	12M	2560x3424																Female	1		Right	Moderate	Yes	No	
+I63191	TN	Montse		2.9G	I63191.tif	I63191_6.png	38M	4608x6144																Female	0		Right	Moderate	Yes	No	
+I63193	TN	Montse		1.7G	I63193.tif	I63193_6.png	22M	4864x4992																Female	0		Right	Moderate	No	No	
+I64103	TN	Montse		2.8G	I64103.tif	I64103_6.png	38M	5632x4992																Male	0		Left	Moderate	No	No	
+I64104	TN	Montse		1.1G	I64104.tif	I64104_6.png	12M	3200x3120																Female	0		Left	Moderate	No	No	
+I64110	TN	Montse		545M	I64110.tif	I64110_5.png	26M	4800x4480																Male	0		Left	Moderate	No	No	
+I64111	TN	Montse		2.5G	I64111.tif	I64111_6.png	31M	4608x4928																Male	1		Other	Moderate	Yes	No	
+I64113	TN	Montse		3.2G	I64113.tif	I64113_6.png	39M	5632x5952																Male	0		Right	Moderate	No	No	
+I64142	TN	Montse		3.1G	I64142.tif	I64142_7.png	11M	2688x2912																Male	0		Right	Moderate	Yes	Yes	
+I64151	TN	Montse		3.0G	I64151.tif	I64151_7.png	11M	2560x3136																Female	0		Left	Moderate	Yes	No	
+I64162	TN	Montse		3.7G	I64162.tif	I64162_7.png	12M	2944x3744																Female	1		Right	Well	Yes	No	
+I64171	TN	Montse		1.9G	I64171.tif	I64171_6.png	24M	4352x4480																Male	1		Left	Moderate	Yes	No	
+I64172	TN	Montse		2.8G	I64172.tif	I64172_6.png	33M	5120x5696																Female	NA		Right	Moderate	Yes	No	
+I64182	TN	Montse		2.8G	I64182.tif	I64182_6.png	37M	5888x4992																Male	NA		Other	Moderate	Yes	No	
+I64191	TN	Montse		2.8G	I64191.tif	I64191_6.png	36M	5376x6016																Female	NA		Right	Moderate	Yes	No	
+I64192	TN	Montse		2.9G	I64192.tif	I64192_6.png	34M	5888x5760																Male	0		Left	Moderate	No	No	
+I65111	TN	Montse		2.4G	I65111.tif	I65111_6.png	27M	5120x4480																Male	0		Left	Moderate	No	No	
+I65112	TN	Montse		2.0G	I65112.tif	I65112_6.png	24M	4864x4544																Male	0		Left	Moderate	No	No	
+I65114	TN	Montse		971M	I65114.tif	I65114_6.png	11M	2720x3280																Female	0		Left	Moderate	No	No	
+I65124	TN	Montse		1.2G	I65124.tif	I65124_6.png	14M	3040x3040																Male	0		Left	Moderate	No	No	
+I65131	TN	Montse		3.2G	I65131.tif	I65131_7.png	11M	2688x2720																Female	1		Right	Moderate	No	No	
+I65191	TN	Montse		2.7G	I65191.tif	I65191_6.png	30M	5376x5888																Male	0		Right	Moderate	No	No	
+I66103	TN	Montse		3.7G	I66103.tif	I66103_7.png	14M	2944x2976																Female	0		Left	Moderate	No	No	
+I66112	TN	Montse		2.7G	I66112.tif	I66112_6.png	38M	4096x5760																Male	0		Right	Poor	Yes	Yes	
+I66130	TN	Montse		935M	I66130.tif	I66130_6.png	11M	3040x2960																Female	1		Left	Moderate	No	No	
+I66133	TN	Montse		1.8G	I66133.tif	I66133_6.png	22M	4608x5120																Female	0		Left	Moderate	No	No	
+I66143	TN	Montse		3.0G	I66143.tif	I66143_7.png	11M	2688x2784																Male	0		Right	Moderate	No	No	
+I66153	TN	Montse		1.4G	I66153.tif	I66153_6.png	14M	3840x5952																Male	0		Left	Well	No	No	
+I66161	TN	Montse		3.3G	I66161.tif	I66161_7.png	11M	2688x3040																Female	0		Right	Moderate	No	No	
+I66171	TN	Montse		2.2G	I66171.tif	I66171_6.png	27M	4096x5952																Female	0		Left	Moderate	No	No	
+I66180	TN	Montse		1022M	I66180.tif	I66180_6.png	11M	2720x3360																Male	0		Right	Moderate	Yes	No	
+I67140	TN	Montse		736M	I67140.tif	I67140_5.png	34M	5120x4640																Male	0		Other	Moderate	No	No	
+I67154	TN	Montse		744M	I67154.tif	I67154_5.png	35M	5760x4160																Male	1		Right	Well	Yes	No	
+I67160	TN	Montse		1.2G	I67160.tif	I67160_6.png	13M	2720x3680																Male	0			Well	Yes	No	
+I67161	TN	Montse		1.7G	I67161.tif	I67161_6.png	21M	3840x4224																Female	0		Left	Moderate	No	No	
+I67171	TN	Montse		2.4G	I67171.tif	I67171_6.png	29M	4608x5760																Male	0		Left	Poor	No	Yes	
+I67192	TN	Montse		2.5G	I67192.tif	I67192_6.png	29M	5120x6336																Male	0		Right	Moderate	No	No	
+I67193	TN	Montse		3.1G	I67193.tif	I67193_7.png	11M	2816x2912																Female	0		Left	Moderate	No	No	
+I68120	TN	Montse		682M	I68120.tif	I68120_5.png	29M	4800x4640																Male	0		Left	Well			
+I68121	TN	Montse		1.8G	I68121.tif	I68121_6.png	23M	4352x4352																Male	0		Left	Moderate	No	No	
+I68131	TN	Montse		3.0G	I68131.tif	I68131_7.png	11M	2560x2720																Male	1		Right	Poor	Yes	No	
+I68133	TN	Montse		2.3G	I68133.tif	I68133_6.png	30M	4352x5824																Male	1		Right	Poor	Yes	Yes	
+I68142	TN	Montse		3.1G	I68142.tif	I68142_7.png	11M	2304x3616																Female	0						
+I68150	TN	Montse		803M	I68150.tif	I68150_5.png	35M	4800x6400																Female	0		Left	Poor	No	No	
+I68152	TN	Montse		2.2G	I68152.tif	I68152_6.png	29M	4352x4928																Female	0		Left	Moderate	Yes	No	
+I68153	TN	Montse		2.8G	I68153.tif	I68153_6.png	36M	4608x6080																Male	NA		Left	Moderate	Yes	No	
+I68161	TN	Montse		2.4G	I68161.tif	I68161_6.png	33M	5120x5568																Male	NA		Right	Moderate	Yes	No	
+I68181	TN	Montse		2.0G	I68181.tif	I68181_6.png	26M	4352x4800																Female	NA		Left	Moderate			
+I68190	TN	Montse		3.5G	I68190.tif	I68190_7.png	12M	3072x3072																	NA						
+I68191	TN	Montse		2.1G	I68191.tif	I68191_6.png	29M	4096x4992																Female	0						
+I69100	TN	Montse		1.1G	I69100.tif	I69100_6.png	12M	2240x4640																Male	0		Other	Well	Yes	No	
+I69103	TN	Montse		2.9G	I69103.tif	I69103_6.png	36M	5632x6016																Male	0		Left	Well	Yes	No	
+I69110	TN	Montse		610M	I69110.tif	I69110_5.png	28M	4480x5120																Female	0		Left	Moderate	No	No	
+I69111	TN	Montse		2.2G	I69111.tif	I69111_6.png	31M	4608x5504																Male	0		Other	Moderate	No	No	
+I69113	TN	Montse		1.6G	I69113.tif	I69113_6.png	11M	5632x5056																Female	0		Right	Moderate	No	No	
+I69120	TN	Montse		2.9G	I69120.tif	I69120_7.png	11M	2560x2688																Female	0		Left	Moderate	No	No	
+I69131	TN	Montse		2.6G	I69131.tif	I69131_6.png	35M	4864x5248																Female	NA		Left	Moderate	No	No	
+I69143	TN	Montse		2.7G	I69143.tif	I69143_6.png	33M	5632x5056																Female	0		Right	Moderate	No	No	
+I69170	TN	Montse		3.2G	I69170.tif	I69170_7.png	11M	2816x3008																Female	0			Moderate	No	No	
+I69181	TN	Montse		3.6G	I69181.tif	I69181_7.png	14M	2816x3552																Male	0		Other	Moderate	No	No	
+I69182	TN	Montse		2.5G	I69182.tif	I69182_6.png	33M	5376x4608																Male	0		Right	Moderate	Yes	No	
+I69190	TN	Montse		3.3G	I69190.tif	I69190_7.png	11M	3072x2784																Female	0		Right	Moderate	Yes	No	
+I80104	TN	Montse		1.7G	I80104.tif	I80104_6.png	25M	4096x4288																Male	NA		Left	Moderate	No	No	
+I80106	TN	Montse		3.0G	I80106.tif	I80106_7.png	12M	2816x2688																Female	NA		Left	Moderate	Yes	No	
+I80116	TN	Montse		1.9G	I80116.tif	I80116_6.png	26M	3840x5888																Male	NA		Other	Moderate	No	No	
+I80124	TN	Montse		2.8G	I80124.tif	I80124_6.png	32M	5120x6464																Female	NA		Left	Moderate	No	No	
+I80140	TN	Montse		1.1G	I80140.tif	I80140_6.png	13M	2880x3440																Female	1		Right	Poor	Yes	Yes	
+I81136	TN	Montse		2.6G	I81136.tif	I81136_6.png	34M	4608x5440																Female	NA		Left	Moderate	No		
+I81146	TN	Montse		2.1G	I81146.tif	I81146_6.png	28M	4352x4352																Male	NA		Left	Moderate	Yes	No	
+I82144	TN	Montse		3.1G	I82144.tif	I82144_6.png	36M	4608x8064																Male	NA		Left	Moderate	Yes	No	
+I83176	TN	Montse		2.7G	I83176.tif	I83176_6.png	36M	5120x6336																Female	NA		Left	Moderate	Yes	No	
+I83196	TN	Montse		2.6G	I83196.tif	I83196_6.png	35M	4864x4928																Male	NA		Left	Moderate	No	No	
+I85134	TN	Montse		920M	I85134.tif	I85134_6.png	11M	2720x3120																Male	0		Left	Moderate	No	No	
+I85154	TN	Montse		3.5G	I85154.tif	I85154_7.png	12M	2816x3008																Female	NA		Left	Moderate	No	No	
+I85164	TN	Montse		1.6G	I85164.tif	I85164_6.png	22M	3840x4480																Male	NA		Other	Well	No	No	
+I86156	TN	Montse		2.0G	I86156.tif	I86156_6.png	26M	3840x5056																Male	NA		Right	Moderate	Yes	No	
+I86173	TN	Montse		2.8G	I86173.tif	I86173_6.png	33M	4608x6016																Male	0		Left	Moderate	Yes	No	
+I87163	TN	Montse		1.8G	I87163.tif	I87163_6.png	23M	3584x4224																Male	NA		Right	Well	Yes	No	
+I90158	TN	Montse		2.3G	I90158.tif	I90158_6.png	31M	4864x4480																Male	0		Right	Well	No	No	
+I91119	TN	Montse		1.8G	I91119.tif	I91119_6.png	25M	3328x5248																Female	1		Right	Well	Yes	No	
+I91166	TN	Montse		4.4G	I91166.tif	I91166_7.png	14M	2944x3744																Female	0		Left	Moderate	No	No	
+I91188	TN	Montse		3.5G	I91188.tif	I91188_7.png	11M	2688x3360																Male	0		Right	Moderate	No	No	
+I92106	TN	Montse		1.1G	I92106.tif	I92106_6.png	13M	3200x3040																Male	0		Right	Moderate	Yes	No	
+I92169	TN	Montse		2.2G	I92169.tif	I92169_6.png	29M	4352x4160																Female	0		Right	Moderate	No	No	
+I92189	TN	Montse		3.4G	I92189.tif	I92189_6.png	40M	5376x6272																Male	0		Left	Moderate	Yes	No	
+I93146	TN	Montse		1.4G	I93146.tif	I93146_6.png	18M	3200x3600																Female	0		Left	Moderate	Yes	No	
+I94126	TN	Montse		896M	I94126.tif	I94126_6.png	11M	2400x3440																Male	0		Right	Moderate	Yes	No	
+I94136	TN	Montse		839M	I94136.tif	I94136_5.png	38M	5120x6080																Female	0		Right	Poor	No	Yes	
+I94146	TN	Montse		713M	I94146.tif	I94146_5.png	33M	5120x5920																Male	NA		Left	Moderate	No	No	
+I94154	TN	Montse		2.6G	I94154.tif	I94154_6.png	35M	3840x5888																Male	0		Left	Moderate	No	No	
+I95116	TN	Montse		1.5G	I95116.tif	I95116_6.png	19M	3200x3600																Female	0		Left	Moderate	Yes	No	
+I95146	TN	Montse		1.5G	I95146.tif	I95146_6.png	17M	3200x4400																Female	0		Right	Moderate	No	No	
+I96118	TN	Montse		2.0G	I96118.tif	I96118_6.png	24M	3584x5504																Male	NA		Right	Moderate	Yes	No	
+I96129	TN	Montse		2.7G	I96129.tif	I96129_6.png	35M	4608x6272																Male	0		Left	Moderate	Yes	No	
+I96189	TN	Montse		1.9G	I96189.tif	I96189_6.png	26M	4096x5120																Female	0		Left	Moderate	No	No	
+I97134	TN	Montse		2.3G	I97134.tif	I97134_6.png	29M	4864x5504																Female	0		Left	Moderate	No	No	
+I99136	TN	Montse		4.0G	I99136.tif	I99136_7.png	15M	2816x3360																Male	0		Left	Moderate	Yes	No	
+I07177	N	grup	ok	1.1G	I07177.tif	I07177_6.png	11M	3040x3920			0	no	tejido_fuera	si	si	si	si	no	no	RGB	7	no	si								
+I10117	N	Carlos		986M	I10117.tif	I10117_6.png	16M	4296x3984																							
+I10177-2	N	Carlos		1.3G	I10177-2.tif	I10177-2_6.png	21M	3072x7224																							
+I10178-2	N	Carlos		821M	I10178-2.tif	I10178-2_6.png	13M	2712x5648																							
+I10187-2	N	Carlos		1.7G	I10187-2.tif	I10187-2_6.png	30M	4536x5816																							
+I11127	N	Carlos		1.9G	I11127.tif	I11127_6.png	35M	4048x5816																							
+I11136	N	Carlos		980M	I11136.tif	I11136_6.png	12M	3328x3008																							
+I11186-2	N	Carlos		1.5G	I11186-2.tif	I11186-2_6.png	15M	3328x5184																							
+I12157-2	N	Carlos		1.9G	I12157-2.tif	I12157-2_6.png	34M	4888x6760																							
+I12166	N	Carlos		2.7G	I12166.tif	I12166_6.png	33M	4864x5312																							
+I12177-3	N	Carlos		1.3G	I12177-3.tif	I12177-3_6.png	23M	3560x6232																							
+I12177	N	Carlos		1.7G	I12177.tif	I12177_6.png	28M	4400x7032																							
+I12196	N	Carlos		3.1G	I12196.tif	I12196_6.png	35M	5632x6336																							
+I12197-2	N	Carlos		663M	I12197-2.tif	I12197-2_6.png	11M	4296x2984																							
+I13166	N	Carlos		2.6G	I13166.tif	I13166_6.png	33M	4864x4736																							
+I13176	N	Carlos		1.2G	I13176.tif	I13176_6.png	21M	3928x4072																							
+I14106	N	Carlos		467M	I14106.tif	I14106_5.png	29M	5872x6296																							
+I14127-2	N	Carlos		1.5G	I14127-2.tif	I14127-2_6.png	24M	5752x4456																							
+I14136	N	Carlos		2.6G	I14136.tif	I14136_7.png	14M	2936x3472																							
+I14139	N	Carlos		3.4G	I14139.tif	I14139_7.png	13M	2688x3104																							
+I14146	N	Carlos		2.2G	I14146.tif	I14146_7.png	11M	3176x3368																							
+I14167	N	Carlos		2.0G	I14167.tif	I14167_6.png	38M	5248x5792																							
+I14177-2	N	Carlos		755M	I14177-2.tif	I14177-2_6.png	10M	2584x6576																							
+I14177	N	Carlos		627M	I14177.tif	I14177_6.png	11M	3920x2736																							
+I14179	N	Carlos		2.2G	I14179.tif	I14179_6.png	26M	3840x6272																							
+I14189	N	Carlos		2.0G	I14189.tif	I14189_6.png	24M	3328x6336																							
+I15107	N	Carlos		2.4G	I15107.tif	I15107_7.png	11M	2024x3824																							
+I15119	N	Carlos		2.2G	I15119.tif	I15119_6.png	27M	5120x4992																							
+I15127	N	Carlos		1.1G	I15127.tif	I15127_6.png	17M	3192x6072																							
+I15129	N	Carlos		1.8G	I15129.tif	I15129_6.png	23M	3328x6016																							
+I15149	N	Carlos		1.3G	I15149.tif	I15149_6.png	15M	2560x4800																							
+I15159	N	Carlos		2.2G	I15159.tif	I15159_6.png	25M	3584x6720																							
+I15169-2	N	Carlos		2.6G	I15169-2.tif	I15169-2_6.png	26M	4864x4672																							
+I15169	N	Carlos		1.3G	I15169.tif	I15169_5.png	38M	7680x9472																							
+I15197	N	Carlos		2.3G	I15197.tif	I15197_7.png	11M	2752x3376																							
+I16107	N	Carlos		1.5G	I16107.tif	I16107_6.png	26M	3808x4896																							
+I16109	N	Carlos		3.8G	I16109.tif	I16109_7.png	14M	2816x3456																							
+I16126	N	Carlos		1.2G	I16126.tif	I16126_6.png	21M	4168x4648																							
+I16156-2	N	Carlos		1.9G	I16156-2.tif	I16156-2_6.png	33M	5744x6112																							
+I16157	N	Carlos		656M	I16157.tif	I16157_6.png	11M	4384x2328																							
+I16167	N	Carlos		1.5G	I16167.tif	I16167_6.png	23M	5384x5208																							
+I16176	N	Carlos		871M	I16176.tif	I16176_6.png	13M	3320x4152																							
+I16177-2	N	Carlos		1.2G	I16177-2.tif	I16177-2_6.png	23M	3928x6312																							
+I17106-2	N	Carlos		824M	I17106-2.tif	I17106-2_6.png	13M	4536x3320																							
+I17139	N	Carlos		3.2G	I17139.tif	I17139_7.png	11M	2304x4288																							
+I17149	N	Carlos		1.4G	I17149.tif	I17149_6.png	18M	2816x4544																							
+I17156-2	N	Carlos		1.1G	I17156-2.tif	I17156-2_6.png	18M	4296x4648																							
+I17157	N	Carlos		777M	I17157.tif	I17157_6.png	14M	2464x4488																							
+I17167-2	N	Carlos		957M	I17167-2.tif	I17167-2_6.png	17M	3192x5008																							
+I17177-2	N	Carlos		1.2G	I17177-2.tif	I17177-2_6.png	19M	4176x4816																							
+I17187-2	N	Carlos		2.4G	I17187-2.tif	I17187-2_7.png	11M	2696x3824																							
+I17189	N	Carlos		2.2G	I17189.tif	I17189_6.png	25M	4096x7232																							
+I17197	N	Carlos		2.0G	I17197.tif	I17197_6.png	35M	5880x5856																							
+I17199	N	Carlos		3.8G	I17199.tif	I17199_7.png	12M	3072x3520																							
+I18107	N	Carlos		1.1G	I18107.tif	I18107_6.png	19M	5512x2880																							
+I18109	N	Carlos		2.6G	I18109.tif	I18109_6.png	37M	3840x6016																							
+I18119	N	Carlos		2.8G	I18119.tif	I18119_6.png	32M	5120x6784																							
+I18127	N	Carlos		2.0G	I18127.tif	I18127_6.png	33M	5144x6480																							
+I18137	N	Carlos		2.2G	I18137.tif	I18137_6.png	38M	5504x6160																							
+I18149	N	Carlos		2.2G	I18149.tif	I18149_6.png	26M	4352x5888																							
+I18167-2	N	Carlos		1.4G	I18167-2.tif	I18167-2_6.png	26M	5264x4816																							
+I18169	N	Carlos		666M	I18169.tif	I18169_5.png	26M	4096x7808																							
+I18177	N	Carlos		2.2G	I18177.tif	I18177_6.png	35M	5856x7808																							
+I18178	N	Carlos		923M	I18178.tif	I18178_6.png	11M	2720x4400																							
+I18186	N	Carlos		438M	I18186.tif	I18186_5.png	25M	7120x5304																							
+I18187-2	N	Carlos		914M	I18187-2.tif	I18187-2_6.png	16M	3072x5152																							
+I18196	N	Carlos		1.6G	I18196.tif	I18196_6.png	30M	4296x5232																							
+I18199	N	Carlos		1.4G	I18199.tif	I18199_6.png	13M	3328x4928																							
+I19107	N	Carlos		967M	I19107.tif	I19107_6.png	17M	4288x3736																							
+I19116	N	Carlos		2.0G	I19116.tif	I19116_6.png	34M	5624x5560																							
+I19157	N	Carlos		1.4G	I19157.tif	I19157_6.png	25M	4176x4816																							
+I19159	N	Carlos		1.5G	I19159.tif	I19159_6.png	18M	4096x3840																							
+I19167-2	N	Carlos		1.3G	I19167-2.tif	I19167-2_6.png	22M	3560x6144																							
+I19176	N	Carlos		997M	I19176.tif	I19176_6.png	16M	3688x4816																							
+I19177	N	Carlos		1.8G	I19177.tif	I19177_6.png	31M	4760x6088																							
+I19186-2	N	Carlos		2.5G	I19186-2.tif	I19186-2_7.png	11M	2576x3776																							
+I20168	N	Carlos		671M	I20168.tif	I20168_5.png	29M	4160x6560																							
+I21171	N	Carlos		1.5G	I21171.tif	I21171_6.png	15M	4096x3968																							
+I27143	N	Carlos		343M	I27143.tif	I27143_5.png	11M	3200x4480																							
+I29137	N	Carlos		236M	I29137.tif	I29137_4.png	38M	5760x7040																							
+I29170	N	Carlos		1.6G	I29170.tif	I29170_6.png	19M	3840x4288																							
+I30182	N	Carlos		930M	I30182.tif	I30182_5.png	38M	5440x8160																							
+I31112	N	Carlos		1.1G	I31112.tif	I31112_6.png	12M	2720x4560																							
+I31149	N	Carlos		663M	I31149.tif	I31149_5.png	23M	4160x5440																							
+I32105	N	Carlos		1.1G	I32105.tif	I32105_6.png	11M	3360x3200																							
+I32144	N	Carlos		647M	I32144.tif	I32144_5.png	25M	5440x5280																							
+I34117	N	Carlos		676M	I34117.tif	I34117_5.png	29M	3520x6720																							
+I34122	N	Carlos		379M	I34122.tif	I34122_5.png	13M	2880x5440																							
+I34133	N	Malena		568M	I34133.tif	I34133_5.png	24M	3520x5280																							
+I34148	N	Malena		590M	I34148.tif	I34148_5.png	22M	3520x6880																							
+I34165	N	Malena		702M	I34165.tif	I34165_5.png	26M	5440x5920																							
+I34172	N	Malena		1.1G	I34172.tif	I34172_6.png	13M	2720x3760																							
+I35141	N	Malena		563M	I35141.tif	I35141_5.png	20M	3520x6080																							
+I35162	N	Malena		1.2G	I35162.tif	I35162_6.png	14M	2880x5360																							
+I35193	N	Malena		827M	I35193.tif	I35193_5.png	36M	4160x8160																							
+I36103	N	Malena		227M	I36103.tif	I36103_4.png	39M	5760x5440																							
+I36163	N	Malena		846M	I36163.tif	I36163_5.png	36M	5440x6720																							
+I36172	N	Malena		625M	I36172.tif	I36172_5.png	27M	6080x4480																							
+I36183	N	Malena		586M	I36183.tif	I36183_5.png	23M	3200x6720																							
+I37111	N	Malena		665M	I37111.tif	I37111_5.png	28M	4800x5280																							
+I37132	N	Malena		1.2G	I37132.tif	I37132_6.png	12M	3200x4480																							
+I37141	N	Malena		345M	I37141.tif	I37141_5.png	13M	4160x3200																							
+I37153	N	Malena		738M	I37153.tif	I37153_5.png	30M	5760x6560																							
+I37163	N	Malena		690M	I37163.tif	I37163_5.png	26M	4800x6880																							
+I38103	N	Malena		489M	I38103.tif	I38103_5.png	20M	4160x5120																							
+I38122	N	Malena		659M	I38122.tif	I38122_5.png	28M	5440x8000																							
+I38141	N	Malena		531M	I38141.tif	I38141_5.png	20M	4160x5760																							
+I38183	N	Malena		876M	I38183.tif	I38183_5.png	38M	6400x6080												4	??										
+I39105	N	Malena		501M	I39105.tif	I39105_5.png	17M	4480x6080																							
+I39123	N	Malena		406M	I39123.tif	I39123_5.png	14M	4160x3840																							
+I39141	N	Malena		738M	I39141.tif	I39141_5.png	29M	5760x6080																							
+I39142	N	Malena		312M	I39142.tif	I39142_5.png	13M	2560x5760																							
+I39161	N	Malena		1.4G	I39161.tif	I39161_6.png	16M	3360x4480																							
+I39173	N	Malena		495M	I39173.tif	I39173_5.png	19M	4480x7040																							
+I40104	N	Malena		357M	I40104.tif	I40104_5.png	20M	6016x5344																							
+I40109	N	Malena		607M	I40109.tif	I40109_5.png	26M	4160x7040																							
+I40114	N	Malena		542M	I40114.tif	I40114_5.png	38M	6016x6360																							
+I40115	N	Malena		398M	I40115.tif	I40115_5.png	27M	3536x6504																							
+I40118	N	Malena		626M	I40118.tif	I40118_5.png	25M	3520x7520																							
+I40119	N	Malena		629M	I40119.tif	I40119_5.png	25M	4480x8800																							
+I40124	N	Malena		296M	I40124.tif	I40124_5.png	18M	3744x4776																							
+I40125	N	Malena		218M	I40125.tif	I40125_5.png	15M	2296x5208																							
+I40126	N	Malena		198M	I40126.tif	I40126_5.png	11M	4992x3320																							
+I40129	N	Malena		215M	I40129.tif	I40129_4.png	31M	4480x8320																							
+I40134	N	Malena		353M	I40134.tif	I40134_5.png	24M	4160x4912																							
+I40145	N	Malena		401M	I40145.tif	I40145_5.png	26M	5608x5184																							
+I40148	N	Malena		603M	I40148.tif	I40148_5.png	20M	4480x7520																							
+I40154	N	Malena		362M	I40154.tif	I40154_5.png	23M	4784x4624																							
+I40157	N	Malena		235M	I40157.tif	I40157_5.png	14M	3952x5208																							
+I40158	N	Malena		574M	I40158.tif	I40158_5.png	26M	4160x5280																							
+I40164	N	Malena		272M	I40164.tif	I40164_5.png	16M	4368x4624																							
+I40166	N	Malena		250M	I40166.tif	I40166_5.png	15M	5192x3176																							
+I40174	N	Malena		349M	I40174.tif	I40174_5.png	22M	4160x4776																							
+I40178	N	Malena		1.1G	I40178.tif	I40178_6.png	12M	2880x4320																							
+I40184	N	Malena		411M	I40184.tif	I40184_5.png	27M	4984x5640																							
+I40194	N	Malena		278M	I40194.tif	I40194_5.png	19M	3536x4776																							
+I41109	N	Malena		522M	I41109.tif	I41109_5.png	18M	5120x7200																							
+I41114	N	Malena		213M	I41114.tif	I41114_5.png	14M	2712x5928																							
+I41116	N	Malena		171M	I41116.tif	I41116_5.png	10M	4784x2600																							
+I41119	N	Malena		680M	I41119.tif	I41119_5.png	27M	5440x5920																							
+I41128	N	Malena		681M	I41128.tif	I41128_5.png	25M	5440x6720																							
+I41134	N	Malena		265M	I41134.tif	I41134_5.png	15M	4368x5056																							
+I41147	N	Malena		221M	I41147.tif	I41147_5.png	14M	3744x4192																							
+I41157	N	Malena		391M	I41157.tif	I41157_5.png	24M	5392x4480																							
+I41159	N	Malena		517M	I41159.tif	I41159_5.png	17M	5440x5600																							
+I41165	N	Malena		388M	I41165.tif	I41165_5.png	27M	5608x5200																							
+I41174	N	Malena		330M	I41174.tif	I41174_5.png	19M	5816x4768																							
+I41184	N	Malena		178M	I41184.tif	I41184_4.png	39M	8472x11080																							
+I42108	N	Malena		1.2G	I42108.tif	I42108_6.png	14M	2880x4480																							
+I42114	N	Malena		647M	I42114.tif	I42114_6.png	11M	2800x3616																							
+I42115	N	Malena		387M	I42115.tif	I42115_5.png	27M	5400x5776																							
+I42124	N	Malena		252M	I42124.tif	I42124_5.png	14M	4160x4912																							
+I42128	N	Malena		435M	I42128.tif	I42128_5.png	16M	4800x4640																							
+I42158	N	Malena		731M	I42158.tif	I42158_5.png	28M	5760x6400																							
+I42168	N	Malena		898M	I42168.tif	I42168_6.png	11M	2880x3600																							
+I42169	N	Malena		925M	I42169.tif	I42169_5.png	38M	6400x7520																							
+I42184	N	Malena		428M	I42184.tif	I42184_5.png	31M	5608x5480																							
+I42187	N	Malena		283M	I42187.tif	I42187_5.png	17M	5192x4336																							
+I42196	N	Malena		568M	I42196.tif	I42196_5.png	35M	6024x7504																							
+I43117	N	Malena		461M	I43117.tif	I43117_5.png	29M	4760x6632																							
+I43119	N	Malena		1.1G	I43119.tif	I43119_6.png	12M	3040x4000																							
+I43124	N	Malena		389M	I43124.tif	I43124_5.png	23M	4576x5352																							
+I43134	N	Malena		352M	I43134.tif	I43134_5.png	23M	3936x6360																							
+I43137	N	Malena		209M	I43137.tif	I43137_5.png	13M	5200x2744																							
+I43144	N	Malena		246M	I43144.tif	I43144_5.png	15M	4576x3608																							
+I43146	N	Malena		507M	I43146.tif	I43146_5.png	33M	5400x5640																							
+I43154	N	Malena		410M	I43154.tif	I43154_5.png	26M	4784x4048																							
+I43158	N	Malena		811M	I43158.tif	I43158_5.png	35M	6400x5760																							
+I43174	N	Malena		347M	I43174.tif	I43174_5.png	23M	3952x5488																							
+I43178	N	Malena		435M	I43178.tif	I43178_5.png	16M	4800x4800																							
+I43197	N	Malena		340M	I43197.tif	I43197_5.png	21M	4768x5064																							
+I44124	N	Malena		330M	I44124.tif	I44124_5.png	21M	3952x5488																							
+I44125	N	Malena		465M	I44125.tif	I44125_5.png	31M	3952x6944																							
+I44127	N	Malena		755M	I44127.tif	I44127_6.png	13M	3008x4048																							
+I44144	N	Malena		346M	I44144.tif	I44144_5.png	21M	4984x5496																							
+I44146	N	Malena		243M	I44146.tif	I44146_5.png	14M	4776x4336																							
+I44159	N	Montse		200M	I44159.tif	I44159_4.png	24M	5120x9280																							
+I44164	N	Montse		574M	I44164.tif	I44164_5.png	38M	5608x6656																							
+I44166	N	Montse		211M	I44166.tif	I44166_5.png	13M	4784x3176																							
+I44167	N	Montse		401M	I44167.tif	I44167_5.png	27M	4160x5352																							
+I44174	N	Montse		251M	I44174.tif	I44174_5.png	16M	3952x3760																							
+I44176	N	Montse		285M	I44176.tif	I44176_5.png	19M	4576x3904																							
+I44188	N	Montse		558M	I44188.tif	I44188_5.png	25M	4800x4480																							
+I44194	N	Montse		443M	I44194.tif	I44194_5.png	29M	3112x7664																							
+I44196	N	Montse		569M	I44196.tif	I44196_5.png	38M	6432x6192																							
+I44198	N	Montse		573M	I44198.tif	I44198_5.png	26M	4800x4960																							
+I45107	N	Montse		295M	I45107.tif	I45107_5.png	19M	4160x5208																							
+I45117	N	Montse		428M	I45117.tif	I45117_5.png	29M	5600x5640																							
+I45125	N	Montse		237M	I45125.tif	I45125_5.png	18M	4784x3320																							
+I45128	N	Montse		544M	I45128.tif	I45128_5.png	23M	4480x5440																							
+I45134	N	Montse		300M	I45134.tif	I45134_5.png	19M	4784x4336																							
+I45154	N	Montse		434M	I45154.tif	I45154_5.png	26M	4152x7376																							
+I45155	N	Montse		481M	I45155.tif	I45155_5.png	31M	5192x6360																							
+I45156	N	Montse		291M	I45156.tif	I45156_5.png	19M	3120x6944																							
+I45164	N	Montse		335M	I45164.tif	I45164_5.png	21M	3744x5784																							
+I45174	N	Montse		352M	I45174.tif	I45174_5.png	22M	4576x6216																							
+I45176	N	Montse		232M	I45176.tif	I45176_5.png	14M	3536x4472																							
+I45177	N	Montse		481M	I45177.tif	I45177_5.png	30M	5608x6496																							
+I45184	N	Montse		267M	I45184.tif	I45184_5.png	15M	5608x4768																							
+I45187	N	Montse		367M	I45187.tif	I45187_5.png	26M	4160x5344																							
+I45196	N	Montse		583M	I45196.tif	I45196_5.png	37M	6016x6776																							
+I45198	N	Montse		1.4G	I45198.tif	I45198_6.png	17M	3360x4000																							
+I46104	N	Montse		271M	I46104.tif	I46104_5.png	16M	4152x5064																							
+I46106	N	Montse		599M	I46106.tif	I46106_6.png	11M	2704x3760																							
+I46107	N	Montse		521M	I46107.tif	I46107_5.png	32M	5400x6656																							
+I46115	N	Montse		268M	I46115.tif	I46115_5.png	17M	2920x6512																							
+I46118	N	Montse		831M	I46118.tif	I46118_5.png	34M	5440x6880																							
+I46125	N	Montse		239M	I46125.tif	I46125_5.png	15M	4576x3904																							
+I46135	N	Montse		304M	I46135.tif	I46135_5.png	20M	5392x4048																							
+I46136	N	Montse		336M	I46136.tif	I46136_5.png	20M	5400x4768																							
+I46144	N	Montse		281M	I46144.tif	I46144_5.png	18M	3952x4480																							
+I46155	N	Montse		425M	I46155.tif	I46155_5.png	28M	4160x7232																							
+I46156	N	Montse		206M	I46156.tif	I46156_5.png	13M	3120x4336																							
+I46157	N	Montse		313M	I46157.tif	I46157_5.png	19M	4784x4768																							
+I46175	N	Montse		772M	I46175.tif	I46175_6.png	14M	3016x3832																							
+I46176	N	Montse		208M	I46176.tif	I46176_5.png	12M	4368x4048																							
+I47104	N	Montse		474M	I47104.tif	I47104_5.png	31M	6232x5056																							
+I47114	N	Montse		290M	I47114.tif	I47114_5.png	18M	4784x4048																							
+I47124	N	Montse		328M	I47124.tif	I47124_5.png	21M	4568x4480																							
+I47144	N	Montse		453M	I47144.tif	I47144_5.png	31M	4984x5352																							
+I47145	N	Montse		256M	I47145.tif	I47145_5.png	16M	2920x5208																							
+I47147	N	Montse		240M	I47147.tif	I47147_5.png	14M	4776x4192																							
+I47148	N	Montse		463M	I47148.tif	I47148_5.png	18M	3520x6400																							
+I47155	N	Montse		285M	I47155.tif	I47155_5.png	19M	4160x5064																							
+I47157	N	Montse		706M	I47157.tif	I47157_6.png	13M	3112x3680																							
+I47164	N	Montse		381M	I47164.tif	I47164_5.png	25M	4776x5928																							
+I47168	N	Montse		869M	I47168.tif	I47168_5.png	32M	5120x8320																							
+I47175	N	Montse		147M	I47175.tif	I47175_4.png	34M	8320x4904																							
+I47176	N	Montse		225M	I47176.tif	I47176_5.png	14M	2712x4624																							
+I47187	N	Montse		363M	I47187.tif	I47187_5.png	24M	3952x6944																							
+I47197	N	Montse		269M	I47197.tif	I47197_5.png	18M	2712x5208																							
+I47198	N	Montse		684M	I47198.tif	I47198_5.png	26M	4800x6560																							
+I48106	N	Montse		394M	I48106.tif	I48106_5.png	22M	4568x6936																							
+I48107	N	Montse		449M	I48107.tif	I48107_5.png	32M	5400x5496																							
+I48108	N	Montse		1.2G	I48108.tif	I48108_6.png	14M	3200x3760																							
+I48109	N	Montse		756M	I48109.tif	I48109_5.png	32M	4800x9920																							
+I48117	N	Montse		466M	I48117.tif	I48117_5.png	20M	3520x5280																							
+I48126	N	Montse		281M	I48126.tif	I48126_5.png	14M	3952x6648																							
+I48127	N	Montse		494M	I48127.tif	I48127_5.png	21M	4800x4640																							
+I48128	N	Montse		627M	I48128.tif	I48128_5.png	22M	4480x7200																							
+I48129	N	Montse		410M	I48129.tif	I48129_5.png	17M	4480x6080																							
+I48134	N	Montse		391M	I48134.tif	I48134_5.png	25M	3744x6072																							
+I48135	N	Montse		161M	I48135.tif	I48135_4.png	35M	12256x4664																							
+I48148	N	Montse		603M	I48148.tif	I48148_5.png	24M	4800x6080																							
+I48154	N	Montse		327M	I48154.tif	I48154_5.png	24M	6024x4320																							
+I48167	N	Montse		189M	I48167.tif	I48167_4.png	28M	5120x7040																							
+I48174	N	Montse		630M	I48174.tif	I48174_6.png	11M	3008x3256																							
+I48175	N	Montse		283M	I48175.tif	I48175_5.png	20M	3128x5640																							
+I48178	N	Montse		836M	I48178.tif	I48178_5.png	37M	4800x7680																							
+I48187	N	Montse		1.4G	I48187.tif	I48187_6.png	18M	3520x4560																							
+I48198	N	Montse		617M	I48198.tif	I48198_5.png	26M	4480x5920																							
+I49105	N	Montse		261M	I49105.tif	I49105_5.png	14M	3952x5208																							
+I49107	N	Montse		347M	I49107.tif	I49107_5.png	12M	4480x4160																							
+I49117	N	Montse		514M	I49117.tif	I49117_5.png	20M	4800x4960																							
+I49128	N	Montse		723M	I49128.tif	I49128_5.png	28M	4800x7200																							
+I49154	N	Montse		169M	I49154.tif	I49154_5.png	11M	2712x3760																							
+I49157	N	Montse		853M	I49157.tif	I49157_6.png	11M	2880x2800																							
+I49174	N	Montse		347M	I49174.tif	I49174_5.png	21M	5400x6176																							
+I49177	N	Montse		923M	I49177.tif	I49177_5.png	36M	5120x8640																							
+I49185	N	Montse		264M	I49185.tif	I49185_5.png	16M	5400x3464																							
+I49193	N	Montse		182M	I49193.tif	I49193_5.png	12M	5608x2744																							
+I49197	N	Montse		701M	I49197.tif	I49197_5.png	27M	4160x7680																							
+I59145	N	Montse		1.7G	I59145.tif	I59145_6.png	20M	3200x3680																							
+I69140	N	Montse		625M	I69140.tif	I69140_5.png	26M	4800x7040																							
